@@ -1,8 +1,7 @@
 const NOTIFICATION_ID_PREFIX = `strike-`;
 
 const loadStrikeData = async () => {
-    var url = chrome.runtime.getURL('data/strikes.json');
-    return JSON.parse(await (await fetch(url)).text());
+    return JSON.parse(await (await fetch('https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json')).text());
 };
 
 const checkTab = async (tabId, windowId) => {
