@@ -27,10 +27,10 @@ For reference, here's an example of what an entry in `data/strikes.json` should 
 }
 ```
 
-In the example above, "Wirecutter" is the organization name, `matchingUrls` is the list of (case-insensitive) regular expressions that match on Wirecutter's websites that create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user should be navigated to when they click on that browser norification to learn more about it. For `moreInfoUrl`, primary sources are preferred, i.e. a link to the employee union's official tweet about it, as opposed to a news story.
+In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes` is the list of (case-insensitive) regular expressions that match on Wirecutter's websites that create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user should be navigated to when they click on that browser norification to learn more about it. For `moreInfoUrl`, primary sources are preferred, i.e. a link to the employee union's official tweet about it, as opposed to a news story.
 
 ## Credits
 
 ### Third-party
 
-* All in-browser icons made by <a href="https://www.flaticon.com/authors/chanut-is-industries" title="Chanut-is-Industries"> Chanut-is-Industries </a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+* All in-browser icons made by <a href="https://www.flaticon.com/authors/chanut-is-industries" title="Chanut-is-Industries">Chanut-is-Industries</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
