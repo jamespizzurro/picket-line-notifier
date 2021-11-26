@@ -1,0 +1,9 @@
+{
+    "Wirecutter": {
+        "moreInfoUrl": "https://twitter.com/wirecutterunion/status/1463734222812856321",
+        "matchingUrlRegexes": [
+            "wirecutter.com",
+            "nytimes.com\/wirecutter"
+        ]
+    }
+}
