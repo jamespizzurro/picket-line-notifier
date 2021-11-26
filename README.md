@@ -6,9 +6,9 @@ A browser extension that notifies you when you navigate to a website belonging t
 
 ### Google Chrome / Microsoft Edge
 
-1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/master.zip).
+1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/refs/heads/main.zip).
 2. Unzip the ZIP file and you should have a directory named `picket-line-notifier-master`. Move this directory to a permanent location, as deleting it will uninstall the extension.
-3. Launch your web browser and go to its Extensions page ([chrome://extensions](chrome://extensions) or [edge://extensions](edge://extensions)). Enable 'Developer Mode' from there.
+3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> for Chrome; <a href="edge://extensions">edge://extensions</a> for Edge). Enable 'Developer Mode' from there.
 4. Drag the `picket-line-notifier-master` directory anywhere on the page to import it. Remember: don't delete the `picket-line-notifier-master` directory unless you want to uninstall the extension.
 
 ## Contributing
