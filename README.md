@@ -1,15 +1,17 @@
 # Picket Line Notifier
 
-A browser extension that notifies you when you navigate to a website belonging to an organization whose employees are on strike.
+A browser extension that alerts you when you navigate to a website belonging to an organization whose employees are on strike. You can then click on the notification to learn more about the strike.
 
 ## Installing
+
+At present, only Chromium-based web browsers are supported.
 
 ### Google Chrome / Microsoft Edge
 
 1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/refs/heads/main.zip).
-2. Unzip the ZIP file and you should have a directory named `picket-line-notifier-master`. Move this directory to a permanent location, as deleting it will uninstall the extension.
+2. Unzip the ZIP file and you should have a directory named `picket-line-notifier-main`. Move this directory to a permanent location, as deleting it will uninstall the extension.
 3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> for Chrome; <a href="edge://extensions">edge://extensions</a> for Edge). Enable 'Developer Mode' from there.
-4. Drag the `picket-line-notifier-master` directory anywhere on the page to import it. Remember: don't delete the `picket-line-notifier-master` directory unless you want to uninstall the extension.
+4. Drag the `picket-line-notifier-main` directory anywhere on the page to import it. Remember: don't delete the `picket-line-notifier-main` directory unless you want to uninstall the extension.
 
 ## Contributing
 
