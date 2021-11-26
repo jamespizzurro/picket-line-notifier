@@ -4,14 +4,18 @@ A browser extension that alerts you when you navigate to a website belonging to 
 
 ## Installing
 
-At present, only Chromium-based web browsers are supported.
-
 ### Google Chrome / Microsoft Edge
 
 1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/refs/heads/main.zip).
 2. Unzip the ZIP file and you should have a directory named `picket-line-notifier-main`. Move this directory to a permanent location, as deleting it will uninstall the extension.
 3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> for Chrome; <a href="edge://extensions">edge://extensions</a> for Edge). Enable 'Developer Mode' from there.
 4. Drag the `picket-line-notifier-main` directory anywhere on the page to import it. Remember: don't delete the `picket-line-notifier-main` directory unless you want to uninstall the extension.
+
+### Mozilla Firefox
+
+1. Download [the latest XPI file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/raw/main/web-ext-artifacts/picket_line_notifier-0.1.0-an%2Bfx.xpi).
+2. Launch Firefox, go to Settings > Extensions & Themes > Extensions (<a href="about:addons">about:addons</a>), click the button with a gear icon, and choose 'Install Add-on From File...' from the menu that appears. Find the XPI file you just downloaded from the file chooser dialog that appears, select it and continue.
+3. Optional: delete the XPI file you downloaded; it's no longer necessary.
 
 ## Contributing
 
