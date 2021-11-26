@@ -2,9 +2,10 @@
     "name": "Picket Line Notifier",
     "description": "Get notified when you navigate to a website belonging to an organization whose employees are on strike.",
     "version": "0.1.0",
-    "manifest_version": 3,
+    "manifest_version": 2,
     "background": {
-        "service_worker": "background.js"
+        "scripts": ["background.js"],
+        "persistent": false
     },
     "permissions": [
         "tabs",

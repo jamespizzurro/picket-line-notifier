@@ -4,6 +4,24 @@ const loadStrikeData = async () => {
     return JSON.parse(await (await fetch('https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json')).text());
 };
 
+const createNotification = (orgName, tabId, windowId, requireInteraction) => {
+    const notificationConfig = {
+        type: 'basic',
+        iconUrl: 'images/icon-128.png',
+        title: "Don't cross the virtual picket line!",
+        message: `Employees who work for ${orgName} are on strike! Click on this notification for more information.`,
+        priority: 2
+    };
+
+    if (requireInteraction != null) {
+        notificationConfig.requireInteraction = requireInteraction;
+    }
+
+    chrome.notifications.create(`${NOTIFICATION_ID_PREFIX}${orgName}`, notificationConfig, notificationId => {
+        console.debug(`created Notification '${notificationId}' from Tab ${tabId} of Window ${windowId}`);
+    });
+};
+
 const checkTab = async (tabId, windowId) => {
     chrome.tabs.query({
         active: true,
@@ -46,16 +64,11 @@ const checkTab = async (tabId, windowId) => {
         }
 
         if (matchingOrgName) {
-            chrome.notifications.create(`${NOTIFICATION_ID_PREFIX}${matchingOrgName}`, {
-                type: 'basic',
-                iconUrl: 'images/icon-128.png',
-                title: "Don't cross the virtual picket line!",
-                message: `Employees who work for ${matchingOrgName} are on strike! Click on this notification for more information.`,
-                priority: 2,
-                requireInteraction: true
-            }, notificationId => {
-                console.debug(`created Notification '${notificationId}' from Tab ${tabId} of Window ${windowId}`);
-            });
+            try {
+                createNotification(matchingOrgName, tabId, windowId, true);
+            } catch (e) {
+                createNotification(matchingOrgName, tabId, windowId, undefined);
+            }
         }
     });
 };
