@@ -13,7 +13,7 @@ A browser extension that alerts you when you navigate to a website belonging to 
 
 ### Mozilla Firefox
 
-1. Download [the latest XPI file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/raw/main/web-ext-artifacts/picket_line_notifier-0.1.0-an%2Bfx.xpi) in the `web-ext-artifacts` directory of this repository.
+1. Download [the latest XPI file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/raw/main/web-ext-artifacts/picket_line_notifier-1.0.0-an+fx.xpi) in the `web-ext-artifacts` directory of this repository.
 2. Launch Firefox, go to Settings > Extensions & Themes > Extensions (<a href="about:addons">about:addons</a>), click the button with a gear icon, and choose 'Install Add-on From File...' from the menu that appears. Find the XPI file you just downloaded from the file chooser dialog that appears, select it and continue.
 3. Optional: delete the XPI file you downloaded; it's no longer necessary.
 
