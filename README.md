@@ -2,6 +2,8 @@
 
 A browser extension that alerts you when you navigate to a website belonging to an organization whose employees are on strike. You can then click on the notification to learn more about the strike.
 
+<img src="https://github.com/jamespizzurro/picket-line-notifier/raw/main/screenshots/chrome-notification.png" alt="A screenshot of wirecutter.com with a notification from this browser extension rendered over it indicating that Wirecutter's employees are on strike and that one can click the notification for more information.">
+
 ## Installing
 
 ### Google Chrome / Microsoft Edge
