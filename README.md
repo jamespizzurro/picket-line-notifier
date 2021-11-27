@@ -6,6 +6,12 @@ A browser extension that alerts you when you navigate to a website belonging to 
 
 ## Installing
 
+### Automatically
+
+This browser extension is not yet available from [Google's Chrome Web Store](https://chrome.google.com/webstore/category/extensions), [Microsoft's Edge Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home), nor [Mozilla's listing of Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/extensions/); official approval to each of these places is still pending. In the meantime, please use the manual installation instructions below.
+
+### Manually
+
 ### Google Chrome / Microsoft Edge
 
 1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/refs/heads/main.zip).
