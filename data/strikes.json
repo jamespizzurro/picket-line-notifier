@@ -1,4 +1,88 @@
 {
+    "Warrior Met Coal": {
+        "moreInfoUrl": "https://umwa.org/take-action/united-we-stand/",
+        "matchingUrlRegexes": [
+            "warriormetcoal.com"
+        ]
+    },
+    "Saint Vincent Hospital": {
+        "moreInfoUrl": "https://action.massnurses.org/we-stand-with-st-vincents-nurses/",
+        "matchingUrlRegexes": [
+            "stvincenthospital.com"
+        ]
+    },
+    "Special Metals": {
+        "moreInfoUrl": "https://actionnetwork.org/forms/usw-local-40-solidarity-pledge",
+        "matchingUrlRegexes": [
+            "specialmetals.com"
+        ]
+    },
+    "San Antonio Symphony": {
+        "moreInfoUrl": "https://www.mosas.org/",
+        "matchingUrlRegexes": [
+            "sasymphony.org"
+        ]
+    },
+    "Kellogg's": {
+        "moreInfoUrl": "https://www.facebook.com/kelloggstrike/",
+        "matchingUrlRegexes": [
+            "kelloggs.com",
+            "kelloggcompany.com",
+            "kelloggsfamilyrewards.com",
+            "kelloggstore.com"
+        ]
+    },
+    "Erie Strayer Company": {
+        "moreInfoUrl": "https://www.eriestrayerstrike.com/",
+        "matchingUrlRegexes": [
+            "eriestrayer.com"
+        ]
+    },
+    "Exxon Mobil": {
+        "moreInfoUrl": "https://usw13-243.org/",
+        "matchingUrlRegexes": [
+            "exxon.com",
+            "corporate.exxonmobil.com"
+        ]
+    },
+    "Sunrise Community": {
+        "moreInfoUrl": "http://www.seiu1199ne.org/",
+        "matchingUrlRegexes": [
+            "sunrisegroup.org"
+        ]
+    },
+    "Green Mountain Transit": {
+        "moreInfoUrl": "https://www.facebook.com/Vermontlocal597",
+        "matchingUrlRegexes": [
+            "ridegmt.com"
+        ]
+    },
+    "Johnson Brothers": {
+        "moreInfoUrl": "https://www.facebook.com/teamsters251/",
+        "matchingUrlRegexes": [
+            "johnsonbrothers.com"
+        ]
+    },
+    "Columbia University": {
+        "moreInfoUrl": "https://www.studentworkersofcolumbia.com/",
+        "matchingUrlRegexes": [
+            "columbia.edu"
+        ]
+    },
+    "Jon Donaire Desserts": {
+        "moreInfoUrl": "https://www.facebook.com/JonDonaireStrike",
+        "matchingUrlRegexes": [
+            "iloveicecreamcakes.com\/.*jon-donaire.*",
+            "richs.com",
+            "richsusa.com"
+        ]
+    },
+    "Meadowlands Exposition Center": {
+        "moreInfoUrl": "https://www.facebook.com/Local-59-IATSE-154879874660445/",
+        "matchingUrlRegexes": [
+            "mecexpo.com"
+        ]
+    },
     "Wirecutter": {
         "moreInfoUrl": "https://twitter.com/wirecutterunion/status/1463734222812856321",
         "matchingUrlRegexes": [
