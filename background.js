@@ -1,7 +1,7 @@
 const NOTIFICATION_ID_PREFIX = 'strike-';
 
 const loadStrikeData = async () => {
-    return JSON.parse(await (await fetch('https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json')).text());
+    return JSON.parse(await (await fetch('https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json', {cache: 'no-cache'})).text());
 };
 
 const createNotification = (orgName, tabId, windowId) => {
