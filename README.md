@@ -6,9 +6,21 @@ A browser extension that alerts you when you navigate to a website belonging to 
 
 ## Installing
 
+If available for your browser, we recommend installing this browser extension [automatically](#automatically) to ensure you receive any updates to the extension itself. Regardless of what browser or installation method you choose though, after installing the browser extension for the first time, you'll get [the latest strike data](https://github.com/jamespizzurro/picket-line-notifier/blob/main/data/strikes.json) automatically thereafter.
+
 ### Automatically
 
-This browser extension is not yet available from [Google's Chrome Web Store](https://chrome.google.com/webstore/category/extensions), [Microsoft's Edge Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home), nor [Mozilla's listing of Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/extensions/); official approval to each of these places is still pending. In the meantime, please use the manual installation instructions below.
+#### Google Chrome
+
+This browser extension is not yet available from [Google's Chrome Web Store](https://chrome.google.com/webstore/category/extensions); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Google Chrome](#google-chrome--microsoft-edge) below.
+
+#### Microsoft Edge
+
+This browser extension is not yet available from [Microsoft's Edge Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Microsoft Edge](#google-chrome--microsoft-edge) below.
+
+#### Mozilla Firefox
+
+Download from [our Mozilla Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
 
 ### Manually
 
@@ -45,6 +57,11 @@ In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes
 
 ## Credits
 
-### Third-party
+### Frequently Used Data Sources
+
+* [AFL-CIO's Strike Map](https://aflcio.org/strike-map)
+* [The Cornell-ILR Labor Action Tracker](https://striketracker.ilr.cornell.edu/)
+
+### Graphics
 
 * All in-browser icons made by <a href="https://www.flaticon.com/authors/chanut-is-industries" title="Chanut-is-Industries">Chanut-is-Industries</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
