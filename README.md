@@ -12,24 +12,28 @@ If available for your browser, we recommend installing this browser extension [a
 
 #### Google Chrome
 
-This browser extension is not yet available from [Google's Chrome Web Store](https://chrome.google.com/webstore/category/extensions); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Google Chrome](#google-chrome--microsoft-edge) below.
+This browser extension is not yet available from [the Chrome Web Store](https://chrome.google.com/webstore/category/extensions); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Google Chrome](#google-chrome--microsoft-edge--opera) below.
 
 #### Microsoft Edge
 
-This browser extension is not yet available from [Microsoft's Edge Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Microsoft Edge](#google-chrome--microsoft-edge) below.
+This browser extension is not yet available from [Edge's Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Microsoft Edge](#google-chrome--microsoft-edge--opera) below.
 
 #### Mozilla Firefox
 
-Download from [our page on Mozilla's listing of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
+One-click install from [our page on Mozilla's list of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
+
+#### Opera
+
+This browser extension is not yet available from [Opera's Extensions page](hhttps://addons.opera.com/en/extensions/); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Opera](#google-chrome--microsoft-edge--opera) below.
 
 ### Manually
 
-#### Google Chrome / Microsoft Edge
+#### Google Chrome / Microsoft Edge / Opera
 
 1. Download this repository as a [ZIP file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/archive/refs/heads/main.zip).
 2. Unzip the ZIP file and you should have a directory named `picket-line-notifier-main`. Move this directory to a permanent location, as deleting it will uninstall the extension.
-3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> for Chrome; <a href="edge://extensions">edge://extensions</a> for Edge). Enable 'Developer Mode' from there.
-4. Drag the `picket-line-notifier-main` directory anywhere on the page to import it. Remember: don't delete the `picket-line-notifier-main` directory unless you want to uninstall the extension.
+3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> in Chrome; <a href="edge://extensions">edge://extensions</a> in Edge; <a href="opera://extensions">opera://extensions</a> in Opera). Enable 'Developer Mode' from there.
+4. Drag the `picket-line-notifier-main` directory anywhere on the Extensions page to install it. Remember: don't delete the `picket-line-notifier-main` directory unless you want to uninstall the extension.
 
 #### Mozilla Firefox
 
@@ -39,7 +43,7 @@ Download from [our page on Mozilla's listing of Firefox add-ons](https://addons.
 
 ## Contributing
 
-Check out the `data/strikes.json` file. If you notice a strike is missing from that file, or the data for a given strike listed there isn't as good as it could be, or a strike that's no longer active is still listed, create a new issue or submit a pull request to this repository.
+Check out the `data/strikes.json` file. If you notice a strike is missing from that file, or the data for a given strike listed there isn't as good as it could be, or a strike that's no longer active is still listed, [create a new issue](https://github.com/jamespizzurro/picket-line-notifier/issues) or [submit a pull request](https://github.com/jamespizzurro/picket-line-notifier/pulls) to this repository on GitHub.
 
 For reference, here's an example of what an entry in `data/strikes.json` should look like:
 
@@ -53,7 +57,14 @@ For reference, here's an example of what an entry in `data/strikes.json` should 
 }
 ```
 
-In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes` is the list of (case-insensitive) regular expressions that match on Wirecutter's websites that create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user should be navigated to when they click on that browser norification to learn more about it. For `moreInfoUrl`, primary sources are preferred, i.e. a link to the employee union's official tweet about it, as opposed to a news story.
+In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes` is the list of (case-insensitive) regular expressions that match on Wirecutter's websites that create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user should be navigated to when they click on that browser norification to learn more about it.
+
+For `moreInfoUrl`, primary sources are preferred, as are landing pages or social media profiles that are being kept up to date about the strike as new events unfold, e.g. a union's landing page or Facebook/Twitter profile with ways to show your support shown prominently.
+
+## Project Roadmap
+
+* Automatically create new issues on [our GitHub repository's Issues page](https://github.com/jamespizzurro/picket-line-notifier/issues) for newly active or inactive strikes to make it easier for maintainers to know when to update the strikes list.
+* Add support for Apple's Safari web browser and submit it to Apple's App Store.
 
 ## Credits
 
