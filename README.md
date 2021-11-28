@@ -20,7 +20,7 @@ This browser extension is not yet available from [Microsoft's Edge Add-ons page]
 
 #### Mozilla Firefox
 
-Download from [our Mozilla Firefox Add-ons page](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
+Download from [our page on Mozilla's listing of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
 
 ### Manually
 
