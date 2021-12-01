@@ -48,7 +48,17 @@ const checkTab = async (tabId, windowId) => {
             const matchingRegex = strike.matchingUrlRegexes.find(rx => (new RegExp(rx, 'i')).test(tabUrl));
             if (matchingRegex) {
                 console.debug(`URL of Tab ${tabId} of Window ${windowId} matches regex ${new RegExp(matchingRegex, 'i')} for ${orgName}`);
+
+                const badgeText = "!";
+                chrome.browserAction.setBadgeText({
+                    tabId: tabId,
+                    text: badgeText
+                }, () => {
+                    console.debug(`set badge text for Tab ${tabId} to "${badgeText}"`);
+                });
+
                 createNotification(orgName, tabId, windowId);
+                
                 break;
             }
         }

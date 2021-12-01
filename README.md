@@ -63,9 +63,7 @@ For `moreInfoUrl`, primary sources are preferred, as are landing pages or social
 
 ## Project Roadmap
 
-* Automatically create new issues on [our GitHub repository's Issues page](https://github.com/jamespizzurro/picket-line-notifier/issues) for newly active or inactive strikes to make it easier for maintainers to know when to update the strikes list.
-* Allow users to quickly browse all active strikes by clicking the extension's icon in their browser, and allow them to click on any strike in the list to learn more.
-* Add support for Apple's Safari web browser and submit it to Apple's App Store.
+* Add support for Apple's Safari web browser and publish it in Apple's App Store.
 
 ## Credits
 
@@ -76,4 +74,4 @@ For `moreInfoUrl`, primary sources are preferred, as are landing pages or social
 
 ### Graphics
 
-* All in-browser icons made by <a href="https://www.flaticon.com/authors/chanut-is-industries" title="Chanut-is-Industries">Chanut-is-Industries</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>
+* <a href="https://www.flaticon.com/premium-icon/protest_756961">'Protest' icon</a> made by <a href="https://www.flaticon.com/authors/chanut-is-industries" title="Chanut-is-Industries">Chanut-is-Industries</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>

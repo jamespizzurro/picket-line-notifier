@@ -1,0 +1,15 @@
+body {
+    width: 200px;
+}
+
+ul {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+a:link, a:visited {
+    color: initial;
+}
+a:hover, a:active {
+    color: #EE5151;
+}
