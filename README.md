@@ -17,7 +17,7 @@ Install from [our page on the Chrome Web Store](https://chrome.google.com/websto
 
 #### Microsoft Edge
 
-This browser extension is not yet available from [Edge's Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Microsoft Edge](#google-chrome--microsoft-edge--opera) below.
+Install from [our page on Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/picket-line-notifier/apeihmeekhpcdaoedhbcidhllognbibl).
 
 #### Mozilla Firefox
 
