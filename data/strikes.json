@@ -82,12 +82,5 @@
         "matchingUrlRegexes": [
             "mecexpo.com"
         ]
-    },
-    "BuzzFeed News": {
-        "moreInfoUrl": "https://twitter.com/bfnewsunion/status/1466377199641104384",
-        "matchingUrlRegexes": [
-            "buzzfeed.com",
-            "buzzfeednews.com"
-        ]
     }
 }
