@@ -13,15 +13,15 @@ If available for your browser, we recommend installing this browser extension [a
 
 #### Google Chrome
 
-This browser extension is not yet available from [the Chrome Web Store](https://chrome.google.com/webstore/category/extensions); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Google Chrome](#google-chrome--microsoft-edge--opera) below.
+Install from [our page on the Chrome Web Store](https://chrome.google.com/webstore/detail/picket-line-notifier/mbehfdoomcmpbejngdojlocpkgjacppl).
 
 #### Microsoft Edge
 
-This browser extension is not yet available from [Edge's Add-ons page](https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home); official approval for it to be listed there is still pending. In the meantime, please use [the manual installation instructions for Microsoft Edge](#google-chrome--microsoft-edge--opera) below.
+Install from [our page on Microsoft Edge Addons](https://microsoftedge.microsoft.com/addons/detail/picket-line-notifier/apeihmeekhpcdaoedhbcidhllognbibl).
 
 #### Mozilla Firefox
 
-One-click install from [our page on Mozilla's list of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
+Install from [our page on Mozilla's list of Firefox add-ons](https://addons.mozilla.org/en-US/firefox/addon/picket-line-notifier/).
 
 #### Opera
 

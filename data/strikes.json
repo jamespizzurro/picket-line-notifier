@@ -29,7 +29,26 @@
             "kelloggs.com",
             "kelloggcompany.com",
             "kelloggsfamilyrewards.com",
-            "kelloggstore.com"
+            "kelloggstore.com",
+            "poptarts.com",
+            "kashi.com",
+            "joybolfoods.com",
+            "nutrigrain.com",
+            "specialk.com",
+            "frostedflakes.com",
+            "frostedminiwheats.com",
+            "bearnaked.com",
+            "all-bran.com",
+            "raisinbran.com",
+            "ricekrispies.com",
+            "pringles.com",
+            "cheezit.com",
+            "clubcrackers.com",
+            "carrscrackers.com",
+            "townhousecrackers.com",
+            "morningstarfarms.com",
+            "gardenburger.com",
+            "leggomyeggo.com"
         ]
     },
     "Erie Strayer Company": {
@@ -81,13 +100,6 @@
         "moreInfoUrl": "https://www.facebook.com/Local-59-IATSE-154879874660445/",
         "matchingUrlRegexes": [
             "mecexpo.com"
-        ]
-    },
-    "Wirecutter": {
-        "moreInfoUrl": "https://twitter.com/wirecutterunion/status/1463734222812856321",
-        "matchingUrlRegexes": [
-            "wirecutter.com",
-            "nytimes.com\/wirecutter"
         ]
     }
 }
