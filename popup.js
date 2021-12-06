@@ -1,5 +1,18 @@
-const loadStrikeData = async () => {
-    return JSON.parse(await (await fetch('https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json', {cache: 'no-cache'})).text());
+const STRIKES_STORAGE_KEY = 'strikes';
+
+const loadStrikeData = () => {
+    // background.js should have already loaded strike data into our app cache
+
+    return new Promise(resolve => {
+        chrome.storage.local.get(STRIKES_STORAGE_KEY, items => {
+            if (!items || !items[STRIKES_STORAGE_KEY]) {
+                console.warn("No strike data in app cache! This is unexpected. Rendering an empty strike list for now.");
+                resolve({});
+            } else {
+                resolve(items[STRIKES_STORAGE_KEY]);
+            }
+        });
+    });
 };
 
 (async () => {
