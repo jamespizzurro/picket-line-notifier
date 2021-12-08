@@ -101,5 +101,13 @@
         "matchingUrlRegexes": [
             "mecexpo.com"
         ]
+    },
+    "Raven Software - Activision Blizzard": {
+        "moreInfoUrl": "https://twitter.com/ABetterABK",
+        "matchingUrlRegexes": [
+            "ravensoftware.com",
+            "activision.com",
+            "blizzard.com"
+        ]
     }
 }
