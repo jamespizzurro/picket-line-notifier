@@ -109,5 +109,12 @@
             "activision.com",
             "blizzard.com"
         ]
+    },
+    "ABARTA Coca-Cola Beverages": {
+        "moreInfoUrl": "https://www.facebook.com/TLU773/",
+        "matchingUrlRegexes": [
+            "abartacocacola.com",
+            "abarta.com"
+        ]
     }
 }
