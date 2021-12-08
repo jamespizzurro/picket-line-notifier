@@ -137,5 +137,43 @@
             "linkedin.com/company/newspapers-of-new-england",
             "glassdoor.com/Overview/Working-at-Newspapers-of-New-England-EI_IE1106203.11,36.htm"
         ]
+    },
+    "Gary Merlino Construction": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "linkedin.com/company/gary-merlino-construction-co",
+            "glassdoor.com/Overview/Working-at-Gary-Merlino-Construction-EI_IE404240.11,36.htm"
+        ]
+    },
+    "Stoneway Concrete": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "linkedin.com/company/stoneway-concrete",
+            "yelp.com/biz/stoneway-concrete-renton"
+        ]
+    },
+    "Cadman": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "lehighhanson.com"
+        ]
+    },
+    "CalPortland": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "calportland.com"
+        ]
+    },
+    "Lehigh Cement Company": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "lehighhanson.com"
+        ]
+    },
+    "Salmon Bay Sand & Gravel": {
+        "moreInfoUrl": "https://teamsters174.net/",
+        "matchingUrlRegexes": [
+            "sbsg.com"
+        ]
     }
 }
