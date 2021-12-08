@@ -116,5 +116,12 @@
             "abartacocacola.com",
             "abarta.com"
         ]
+    },
+    "McKenzie-Willamette Medical Center": {
+        "moreInfoUrl": "http://www.seiu49.org/",
+        "matchingUrlRegexes": [
+            "mckweb.com",
+            "facebook.com/McKenzieWillametteMedicalCenter"
+        ]
     }
 }
