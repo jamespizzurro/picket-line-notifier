@@ -134,6 +134,13 @@ const checkTab = async (tabId, windowId) => {
     });
 };
 
+chrome.runtime.onInstalled.addListener(async () => {
+    // when the extension is first installed or updated,
+    // make a fetch for strike data to populate our popup with strikes,
+    // otherwise users could open our popup immediately after installing the extension (i.e. without changing tabs first) and see no strikes listed
+    await loadStrikeData();
+});
+
 chrome.tabs.onActivated.addListener(async activeInfo => {
     const {tabId, windowId} = activeInfo;
 
