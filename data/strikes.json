@@ -162,5 +162,16 @@
         "matchingUrlRegexes": [
             "sbsg.com"
         ]
+    },
+    "Acme Food & Beverage Company": {
+        "moreInfoUrl": "https://www.gofundme.com/f/support-acme-staff-on-strike",
+        "matchingUrlRegexes": [
+            "acmecarrboro.com",
+            "toasttab.com/acme-food-beverage-company",
+            "facebook.com/ACMEcarrboro",
+            "twitter.com/acmecarrboro",
+            "yelp.com/biz/acme-food-and-beverage-co-carrboro-2",
+            "foursquare.com/v/acme-food--beverage-co/4aed142ef964a52011cd21e3"
+        ]
     }
 }
