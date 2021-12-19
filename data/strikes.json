@@ -51,12 +51,6 @@
             "leggomyeggo.com"
         ]
     },
-    "Erie Strayer Company": {
-        "moreInfoUrl": "https://www.eriestrayerstrike.com/",
-        "matchingUrlRegexes": [
-            "eriestrayer.com"
-        ]
-    },
     "Exxon Mobil": {
         "moreInfoUrl": "https://usw13-243.org/",
         "matchingUrlRegexes": [
