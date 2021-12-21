@@ -23,35 +23,6 @@
             "sasymphony.org"
         ]
     },
-    "Kellogg's": {
-        "moreInfoUrl": "https://www.facebook.com/kelloggstrike/",
-        "matchingUrlRegexes": [
-            "kelloggs.com",
-            "kelloggcompany.com",
-            "kelloggsfamilyrewards.com",
-            "kelloggstore.com",
-            "poptarts.com",
-            "kashi.com",
-            "joybolfoods.com",
-            "nutrigrain.com",
-            "specialk.com",
-            "frostedflakes.com",
-            "frostedminiwheats.com",
-            "bearnaked.com",
-            "all-bran.com",
-            "raisinbran.com",
-            "ricekrispies.com",
-            "pringles.com",
-            "cheezit.com",
-            "cheez-it.com",
-            "clubcrackers.com",
-            "carrscrackers.com",
-            "townhousecrackers.com",
-            "morningstarfarms.com",
-            "gardenburger.com",
-            "leggomyeggo.com"
-        ]
-    },
     "Exxon Mobil": {
         "moreInfoUrl": "https://usw13-243.org/",
         "matchingUrlRegexes": [
