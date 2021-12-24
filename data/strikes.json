@@ -160,5 +160,12 @@
             "facebook.com/stericycle/",
             "linkedin.com/company/stericycle/"
         ]
+    },
+    "Apple": {
+        "moreInfoUrl": "https://twitter.com/JoshuaPotash/status/1474194350267674629",
+        "matchingUrlRegexes": [
+            "apple.com",
+            "icloud.com"
+        ]
     }
 }
