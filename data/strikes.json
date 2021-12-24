@@ -147,5 +147,18 @@
             "foursquare.com/v/acme-food--beverage-co/4aed142ef964a52011cd21e3",
             "exploretock.com/acmefoodandbeverage"
         ]
+    },
+    "Shred-it - Stericycle": {
+        "moreInfoUrl": "https://teamster.org/2021/12/new-jersey-teamsters-strike-shred-it/",
+        "matchingUrlRegexes": [
+            "shredit.com",
+            "twitter.com/Shredit",
+            "facebook.com/shredit",
+            "linkedin.com/company/shred-it",
+            "stericycle.com",
+            "twitter.com/Stericycle_Inc",
+            "facebook.com/stericycle/",
+            "linkedin.com/company/stericycle/"
+        ]
     }
 }
