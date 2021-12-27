@@ -160,12 +160,5 @@
             "facebook.com/stericycle/",
             "linkedin.com/company/stericycle/"
         ]
-    },
-    "Apple": {
-        "moreInfoUrl": "https://twitter.com/AppleLaborers/status/1474119772384096271",
-        "matchingUrlRegexes": [
-            "apple.com",
-            "icloud.com"
-        ]
     }
 }
