@@ -160,5 +160,17 @@
             "facebook.com/stericycle/",
             "linkedin.com/company/stericycle/"
         ]
+    },
+    "Portland Pie Company": {
+        "moreInfoUrl": "https://www.washingtonpost.com/nation/2022/01/04/portland-pie-covid-protest-maine/",
+        "matchingUrlRegexes": [
+            "portlandpie.com",
+            "facebook.com/portlandpieco",
+            "twitter.com/portlandpieco",
+            "instagram.com/portlandpieco",
+            "linkedin.com/company/portland-pie-comapny",
+            "indeed.com/cmp/Portland-Pie-Company",
+            "glassdoor.com/Overview/Working-at-Portland-Pie-EI_IE970965.11,23.htm"
+        ]
     }
 }
