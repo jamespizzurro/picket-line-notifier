@@ -31,12 +31,6 @@
             "corporate.exxonmobil.com"
         ]
     },
-    "Sunrise Community": {
-        "moreInfoUrl": "http://www.seiu1199ne.org/",
-        "matchingUrlRegexes": [
-            "sunrisegroup.org"
-        ]
-    },
     "Green Mountain Transit": {
         "moreInfoUrl": "https://www.facebook.com/Vermontlocal597",
         "matchingUrlRegexes": [
