@@ -160,5 +160,22 @@
             "instagram.com/alfred.almond.central.school",
             "twitter.com/AlfredAlmondCS"
         ]
+    },
+    "King Soopers - Kroger": {
+        "moreInfoUrl": "https://www.facebook.com/UFCW7/",
+        "matchingUrlRegexes": [
+            "kingsoopers.com",
+            "twitter.com/MyKingSoopers",
+            "facebook.com/kingsoopers",
+            "youtube.com/user/MyKingSoopers",
+            "pinterest.com/kingsoopers",
+            "instagram.com/mykingsoopers",
+            "kroger.com",
+            "twitter.com/Kroger",
+            "facebook.com/Kroger",
+            "youtube.com/c/KrogerCo",
+            "pinterest.com/krogerco",
+            "instagram.com/krogerco"
+        ]
     }
 }
