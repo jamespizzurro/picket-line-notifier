@@ -78,20 +78,6 @@
             "abarta.com"
         ]
     },
-    "Daily Hampshire Gazette - Newspapers of New England": {
-        "moreInfoUrl": "https://twitter.com/pvnewsguild",
-        "matchingUrlRegexes": [
-            "gazettenet.com",
-            "facebook.com/DailyHampshireGazette",
-            "twitter.com/DailyHampGaz",
-            "yelp.com/biz/daily-hampshire-gazette-northampton",
-            "linkedin.com/company/daily-hampshire-gazette",
-            "glassdoor.com/Overview/Working-at-Daily-Hampshire-Gazette-EI_IE852690.11,34.htm",
-            "nnedigital.com",
-            "linkedin.com/company/newspapers-of-new-england",
-            "glassdoor.com/Overview/Working-at-Newspapers-of-New-England-EI_IE1106203.11,36.htm"
-        ]
-    },
     "Gary Merlino Construction": {
         "moreInfoUrl": "https://teamsters174.net/",
         "matchingUrlRegexes": [
