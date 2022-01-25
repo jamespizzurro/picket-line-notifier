@@ -125,18 +125,6 @@
             "glassdoor.com/Overview/Working-at-Portland-Pie-EI_IE970965.11,23.htm"
         ]
     },
-    "Starbucks": {
-        "moreInfoUrl": "https://www.gofundme.com/f/starbucks-partners-strike-support-fund",
-        "matchingUrlRegexes": [
-            "starbucks.com",
-            "facebook.com/Starbucks",
-            "linkedin.com/company/starbucks",
-            "twitter.com/starbucks",
-            "instagram.com/starbucks",
-            "glassdoor.com/Overview/Working-at-Starbucks-EI_IE2202.11,20.htm",
-            "indeed.com/cmp/Starbucks"
-        ]
-    },
     "Alfred-Almond Central School District": {
         "moreInfoUrl": "https://www.weny.com/story/45591835/citing-unfair-working-conditions-7-out-of-9-alfred-almond-bus-drivers-hold-sick-out",
         "matchingUrlRegexes": [
