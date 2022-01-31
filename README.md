@@ -42,6 +42,12 @@ This browser extension is not yet available from [Opera's Extensions page](hhttp
 2. Launch Firefox, go to Settings > Extensions & Themes > Extensions (<a href="about:addons">about:addons</a>), click the button with a gear icon, and choose 'Install Add-on From File...' from the menu that appears. Find the XPI file you just downloaded from the file chooser dialog that appears, select it and continue.
 3. Optional: delete the XPI file you downloaded; it's no longer necessary.
 
+## FAQ
+
+### I'm not seeing any browser notifications on Windows. What gives?
+
+You may have Focus Assist enabled, which can block browser notifications. [Click here](https://support.microsoft.com/en-us/windows/make-it-easier-to-focus-on-tasks-0d259fd9-e9d0-702c-c027-007f0e78eaf2) (and scroll down to the 'Quiet down those notifications' section) for some general instructions on how to configure it.
+
 ## Contributing
 
 Check out the `data/strikes.json` file. If you notice a strike is missing from that file, or the data for a given strike listed there isn't as good as it could be, or a strike that's no longer active is still listed, [create a new issue](https://github.com/jamespizzurro/picket-line-notifier/issues) or [submit a pull request](https://github.com/jamespizzurro/picket-line-notifier/pulls) to this repository on GitHub.
