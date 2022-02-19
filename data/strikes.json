@@ -37,12 +37,6 @@
             "johnsonbrothers.com"
         ]
     },
-    "Columbia University": {
-        "moreInfoUrl": "https://www.studentworkersofcolumbia.com/",
-        "matchingUrlRegexes": [
-            "columbia.edu"
-        ]
-    },
     "Jon Donaire Desserts": {
         "moreInfoUrl": "https://www.facebook.com/JonDonaireStrike",
         "matchingUrlRegexes": [
