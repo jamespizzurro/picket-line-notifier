@@ -5,12 +5,6 @@
             "warriormetcoal.com"
         ]
     },
-    "Saint Vincent Hospital": {
-        "moreInfoUrl": "https://action.massnurses.org/we-stand-with-st-vincents-nurses/",
-        "matchingUrlRegexes": [
-            "stvincenthospital.com"
-        ]
-    },
     "Special Metals": {
         "moreInfoUrl": "https://actionnetwork.org/forms/usw-local-40-solidarity-pledge",
         "matchingUrlRegexes": [
