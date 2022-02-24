@@ -37,14 +37,6 @@
             "johnsonbrothers.com"
         ]
     },
-    "Jon Donaire Desserts": {
-        "moreInfoUrl": "https://www.facebook.com/JonDonaireStrike",
-        "matchingUrlRegexes": [
-            "iloveicecreamcakes.com\/.*jon-donaire.*",
-            "richs.com",
-            "richsusa.com"
-        ]
-    },
     "Meadowlands Exposition Center": {
         "moreInfoUrl": "https://www.facebook.com/Local-59-IATSE-154879874660445/",
         "matchingUrlRegexes": [
