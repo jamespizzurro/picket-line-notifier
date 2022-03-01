@@ -146,6 +146,9 @@
         "moreInfoUrl": "https://gmgunion.com/",
         "matchingUrlRegexes": [
             "g-omedia.com",
+            "facebook.com/teamgomedia",
+            "twitter.com/gomediainc",
+            "instagram.com/gomedia.inc",
             "gizmodo.com",
             "facebook.com/gizmodo",
             "twitter.com/gizmodo",
