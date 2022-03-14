@@ -209,5 +209,17 @@
             "facebook.com/minneapolis.schools",
             "twitter.com/mps_news"
         ]
+    },
+    "Armstrong County Memorial Hospital": {
+        "moreInfoUrl": "https://www.facebook.com/pennanurses",
+        "matchingUrlRegexes": [
+            "acmh.org",
+            "facebook.com/ACMHHospital",
+            "twitter.com/acmhhospital",
+            "linkedin.com/company/acmh-hospital",
+            "indeed.com/cmp/Acmh-Hospital",
+            "indeed.com/cmp/Armstrong-County-Memorial-Hospital",
+            "glassdoor.com/Overview/Working-at-ACMH-Hospital-EI_IE122004.11,24.htm"
+        ]
     }
 }
