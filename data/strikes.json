@@ -169,5 +169,15 @@
             "indeed.com/cmp/Our-Lady-of-Peace",
             "ascensionhealth.inquicker.com/facility/ascension-living-our-lady-of-peace"
         ]
+    },
+    "WTTW Channel 11": {
+        "moreInfoUrl": "http://www.ibew1220.com/",
+        "matchingUrlRegexes": [
+            "wttw.com",
+            "facebook.com/wttw11",
+            "twitter.com/wttw",
+            "instagram.com/wttwchicago",
+            "youtube.com/user/wttwchicago"
+        ]
     }
 }
