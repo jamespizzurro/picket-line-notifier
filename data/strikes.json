@@ -157,19 +157,6 @@
             "glassdoor.com/Overview/Working-at-ACMH-Hospital-EI_IE122004.11,24.htm"
         ]
     },
-    "Ascension Living Our Lady of Peace": {
-        "moreInfoUrl": "https://www.1199seiu.org/media-center/1199seiu-nursing-home-workers-ascension-living-our-lady-peace-will-strike-39",
-        "matchingUrlRegexes": [
-            "ladyofpeace.org",
-            "healthcare.ascension.org/locations/new-york/nybin/lewiston-ascension-living-our-lady-of-peace",
-            "ascensionliving.org/find-a-community/our-lady-of-peace-lewiston-ny",
-            "facebook.com/ALOLPLewiston",
-            "linkedin.com/company/our-lady-of-peace-nursing-home",
-            "glassdoor.com/Overview/Working-at-Our-Lady-of-Peace-EI_IE438830.11,28.htm",
-            "indeed.com/cmp/Our-Lady-of-Peace",
-            "ascensionhealth.inquicker.com/facility/ascension-living-our-lady-of-peace"
-        ]
-    },
     "WTTW Channel 11": {
         "moreInfoUrl": "http://www.ibew1220.com/",
         "matchingUrlRegexes": [
