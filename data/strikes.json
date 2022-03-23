@@ -154,5 +154,15 @@
             "instagram.com/wttwchicago",
             "youtube.com/user/wttwchicago"
         ]
+    },
+    "Chevron Corporation - Richmond Refinery": {
+        "moreInfoUrl": "https://www.facebook.com/profile.php?id=100054567034921",
+        "matchingUrlRegexes": [
+            "richmond.chevron.com",
+            "facebook.com/chevronrichmond",
+            "twitter.com/chevronrichmond",
+            "linkedin.com/company/chevron",
+            "youtube.com/user/Chevron"
+        ]
     }
 }
