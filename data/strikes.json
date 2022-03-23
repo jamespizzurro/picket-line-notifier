@@ -164,5 +164,26 @@
             "linkedin.com/company/chevron",
             "youtube.com/user/Chevron"
         ]
+    },
+    "Star Garden Topless Bar": {
+        "moreInfoUrl": "https://www.strippersunited.org/",
+        "matchingUrlRegexes": [
+            "stargardenclub.com",
+            "facebook.com/stargardenclub",
+            "instagram.com/stargardenbar",
+            "twitter.com/stargardenclub",
+            "yelp.com/biz/star-garden-north-hollywood",
+            "foursquare.com/stargardenclub",
+            "restaurantguru.com/Star-Garden-Topless-Dive-Bar-Los-Angeles",
+            "thrillist.com/venues/star-garden",
+            "tuscl.net/listing.php?id=2304",
+            "timeout.com/los-angeles/sex-dating/star-garden",
+            "loc8nearme.com/california/north-hollywood/star-garden/3812387",
+            "nicelocal.com/los-angeles/night_clubs/star_garden_topless_dive_bar_north_hollywood",
+            "hey-bars.com/010995463/Star_Garden",
+            "untappd.com/v/star-garden-topless-dive-bar/561378",
+            "vymaps.com/US/Star-Garden-Topless-Dive-Bar-T13800861",
+            "waze.com/live-map/directions/us/ca/los-angeles/star-garden-topless-dive-bar-north-hollywood"
+        ]
     }
 }
