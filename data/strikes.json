@@ -136,15 +136,6 @@
             "glassdoor.com/Overview/Working-at-Eaton-EI_IE221.11,16.htm"
         ]
     },
-    "Minneapolis Public Schools": {
-        "moreInfoUrl": "https://www.safeandstableschools.org/",
-        "matchingUrlRegexes": [
-            "mpls.k12.mn.us",
-            "jazz88.fm",
-            "facebook.com/minneapolis.schools",
-            "twitter.com/mps_news"
-        ]
-    },
     "WTTW Channel 11": {
         "moreInfoUrl": "http://www.ibew1220.com/",
         "matchingUrlRegexes": [
