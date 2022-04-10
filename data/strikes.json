@@ -136,16 +136,6 @@
             "glassdoor.com/Overview/Working-at-Eaton-EI_IE221.11,16.htm"
         ]
     },
-    "WTTW Channel 11": {
-        "moreInfoUrl": "http://www.ibew1220.com/",
-        "matchingUrlRegexes": [
-            "wttw.com",
-            "facebook.com/wttw11",
-            "twitter.com/wttw",
-            "instagram.com/wttwchicago",
-            "youtube.com/user/wttwchicago"
-        ]
-    },
     "Chevron Corporation - Richmond Refinery": {
         "moreInfoUrl": "https://www.facebook.com/profile.php?id=100054567034921",
         "matchingUrlRegexes": [
