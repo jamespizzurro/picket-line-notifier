@@ -143,5 +143,17 @@
             "restaurantji.com/mi/kalamazoo/maru-sushi-and-grill-",
             "sirved.com/restaurant/kalamazoo-michigan-usa/maru-sushi-and-grill/549633"
         ]
+    },
+    "Indiana University": {
+        "moreInfoUrl": "https://www.indianagradworkers.org/",
+        "matchingUrlRegexes": [
+            "indiana.edu",
+            "twitter.com/IUBloomington",
+            "facebook.com/IndianaUniversity",
+            "instagram.com/iubloomington",
+            "youtube.com/c/IndianaUniversityBloomington1820",
+            "pinterest.com/indianauniv",
+            "linkedin.com/school/indiana-university-bloomington"
+        ]
     }
 }
