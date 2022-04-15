@@ -164,5 +164,16 @@
             "facebook.com/TheBuildersAssociation",
             "linkedin.com/company/the-builders'-association-kc-chapter-agc"
         ]
+    },
+    "Etsy": {
+        "moreInfoUrl": "https://etsystrike.org/",
+        "matchingUrlRegexes": [
+            "etsy.com",
+            "instagram.com/etsy",
+            "facebook.com/Etsy",
+            "pinterest.com/etsy",
+            "twitter.com/etsy",
+            "youtube.com/user/etsy"
+        ]
     }
 }
