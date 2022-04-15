@@ -143,20 +143,5 @@
             "restaurantji.com/mi/kalamazoo/maru-sushi-and-grill-",
             "sirved.com/restaurant/kalamazoo-michigan-usa/maru-sushi-and-grill/549633"
         ]
-    },
-    "Starbucks": {
-        "moreInfoUrl": "https://www.gofundme.com/f/kq8q7a-strike-fund-for-pnw-starbucks-workers-united",
-        "matchingUrlRegexes": [
-            "starbucks.com",
-            "facebook.com/Starbucks",
-            "linkedin.com/company/starbucks",
-            "twitter.com/starbucks",
-            "instagram.com/starbucks",
-            "glassdoor.com/Overview/Working-at-Starbucks-EI_IE2202.11,20.htm",
-            "indeed.com/cmp/Starbucks",
-            "spotify.com/user/starbucks",
-            "pinterest.com/starbucks",
-            "youtube.com/starbucks"
-        ]
     }
 }
