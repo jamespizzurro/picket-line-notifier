@@ -155,5 +155,14 @@
             "pinterest.com/indianauniv",
             "linkedin.com/school/indiana-university-bloomington"
         ]
+    },
+    "The Builders' Association - Kansas City": {
+        "moreInfoUrl": "https://iupatdc3.com/news/stike-notice",
+        "matchingUrlRegexes": [
+            "buildersassociation.com",
+            "twitter.com/BuildersAssocKC",
+            "facebook.com/TheBuildersAssociation",
+            "linkedin.com/company/the-builders'-association-kc-chapter-agc"
+        ]
     }
 }
