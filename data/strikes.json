@@ -70,34 +70,6 @@
             "glassdoor.com/Overview/Working-at-Great-Lakes-Coffee-Roasting-EI_IE1081748.11,38.htm"
         ]
     },
-    "Eaton Corporation - Cobham Mission Systems": {
-        "moreInfoUrl": "http://iamlocal388.org/",
-        "matchingUrlRegexes": [
-            "eaton.com",
-            "linkedin.com/company/eaton",
-            "youtube.com/user/EatonVideos",
-            "youtube.com/user/UPSBackup",
-            "instagram.com/EatonPerformance",
-            "instagram.com/eatonbrasil",
-            "facebook.com/eatoncorporation",
-            "facebook.com/eatonelectrical",
-            "facebook.com/SwitchOnEaton",
-            "facebook.com/eatonbrasil",
-            "xing.com/pages/eatoncorporation",
-            "twitter.com/eatoncorp",
-            "twitter.com/ETN_Electrical",
-            "twitter.com/SwitchOnEaton",
-            "twitter.com/eatoncertified",
-            "twitter.com/etn_emea",
-            "twitter.com/golfpridegrips",
-            "twitter.com/ETN_LATAM",
-            "cobhammissionsystems.com",
-            "linkedin.com/company/cobham-mission-systems",
-            "glassdoor.com/Reviews/Employee-Review-Cobham-RVW11476937.htm",
-            "indeed.com/cmp/Eaton",
-            "glassdoor.com/Overview/Working-at-Eaton-EI_IE221.11,16.htm"
-        ]
-    },
     "Chevron Corporation - Richmond Refinery": {
         "moreInfoUrl": "https://www.facebook.com/profile.php?id=100054567034921",
         "matchingUrlRegexes": [
