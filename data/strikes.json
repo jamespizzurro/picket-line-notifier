@@ -147,5 +147,16 @@
             "twitter.com/etsy",
             "youtube.com/user/etsy"
         ]
+    },
+    "University of Illinois Chicago": {
+        "moreInfoUrl": "https://uic-geo.net/mainsite/",
+        "matchingUrlRegexes": [
+            "uic.edu",
+            "facebook.com/uic.edu",
+            "twitter.com/thisisuic",
+            "instagram.com/thisisuic",
+            "youtube.com/user/thisisUIC",
+            "uicscience.tumblr.com"
+        ]
     }
 }
