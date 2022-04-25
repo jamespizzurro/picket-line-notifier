@@ -165,5 +165,16 @@
             "windsorhealthrehab.com",
             "facebook.com/windsorhealthrehab"
         ]
+    },
+    "Kenyon College": {
+        "moreInfoUrl": "https://www.kswoc.org/",
+        "matchingUrlRegexes": [
+            "kenyon.edu",
+            "facebook.com/kenyoncollege",
+            "twitter.com/kenyoncollege",
+            "linkedin.com/school/kenyon-college",
+            "youtube.com/user/KenyonCollegeVideo",
+            "instagram.com/kenyoncollege"
+        ]
     }
 }
