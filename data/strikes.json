@@ -158,5 +158,12 @@
             "youtube.com/user/thisisUIC",
             "uicscience.tumblr.com"
         ]
+    },
+    "Windsor Health and Rehabilitation Center": {
+        "moreInfoUrl": "http://www.seiu1199ne.org/",
+        "matchingUrlRegexes": [
+            "windsorhealthrehab.com",
+            "facebook.com/windsorhealthrehab"
+        ]
     }
 }
