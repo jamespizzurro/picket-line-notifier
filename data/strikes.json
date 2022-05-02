@@ -203,5 +203,17 @@
             "glassdoor.com/Reviews/King-s-Material-Reviews-E3528351.htm",
             "indeed.com/cmp/King's-Material,-Inc"
         ]
+    },
+    "King's Material - Ready Mix Division": {
+        "moreInfoUrl": "https://www.teamsters355.com/",
+        "matchingUrlRegexes": [
+            "sysco.com",
+            "facebook.com/SyscoFoods",
+            "twitter.com/sysco",
+            "linkedin.com/company/sysco",
+            "instagram.com/SyscoFoodie",
+            "youtube.com/sysco",
+            "linkedin.com/company/sysco-baltimore-llc"
+        ]
     }
 }
