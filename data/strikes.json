@@ -169,5 +169,13 @@
             "youtube.com/user/KenyonCollegeVideo",
             "instagram.com/kenyoncollege"
         ]
+    },
+    "Wendy's (Weaverville, NC)": {
+        "moreInfoUrl": "https://twitter.com/RaiseUptheSouth/status/1520775512481800193",
+        "matchingUrlRegexes": [
+            "locations.wendys.com/united-states/nc/weaverville/39-fairfield-approach-drive",
+            "grubhub.com/food/wendys/nc-weaverville",
+            "doordash.com/store/wendy's-weaverville-2319023"
+        ]
     }
 }
