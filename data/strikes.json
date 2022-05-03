@@ -215,5 +215,14 @@
             "youtube.com/sysco",
             "linkedin.com/company/sysco-baltimore-llc"
         ]
+    },
+    "DC Circulator": {
+        "moreInfoUrl": "https://www.atulocal689.org/press/press-release-dc-circulator-bus-drivers-working-for-ratp-dev-on-strike-tomorrow-may-3rd",
+        "matchingUrlRegexes": [
+            "dccirculator.com",
+            "facebook.com/dccirculator",
+            "twitter.com/dccirculator",
+            "instagram.com/dc_circulator"
+        ]
     }
 }
