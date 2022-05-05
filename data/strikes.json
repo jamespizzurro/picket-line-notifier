@@ -193,5 +193,17 @@
             "twitter.com/dccirculator",
             "instagram.com/dc_circulator"
         ]
+    },
+    "Swissport USA - Detroit Metro Airport": {
+        "moreInfoUrl": "https://www.facebook.com/Local-Lodge-698-1511269569002556/",
+        "matchingUrlRegexes": [
+            "swissport.com/en/network/north-america/united-states/dtw",
+            "aviationworld.me/listing/swissport-usa-inc-detroit-metropolitan",
+            "indeed.com/cmp/Swissport-International-Ltd./reviews?fcountry=US&floc=Detroit%2C+MI",
+            "jobsearcher.com/jobs/mi/detroit/-/swissport-international",
+            "jooble.org/jobs-airport-fuel/Detroit%2C-MI",
+            "hireaveteran.com/ft-fueling-agent-300-bonus-detroit-metro-airport-detroit-metropolitan-wayne-county-airport-dtw-detroit-mi-usa-veteran-jobs-hire-a-veteran",
+            "salary.com/job/swissport-international-ltd/dtw-tank-farm-agent/5abedd10-ebbb-40e7-b566-976d6ac502d9"
+        ]
     }
 }
