@@ -128,17 +128,6 @@
             "linkedin.com/school/indiana-university-bloomington"
         ]
     },
-    "Etsy": {
-        "moreInfoUrl": "https://etsystrike.org/",
-        "matchingUrlRegexes": [
-            "etsy.com",
-            "instagram.com/etsy",
-            "facebook.com/Etsy",
-            "pinterest.com/etsy",
-            "twitter.com/etsy",
-            "youtube.com/user/etsy"
-        ]
-    },
     "Kenyon College": {
         "moreInfoUrl": "https://www.kswoc.org/",
         "matchingUrlRegexes": [
