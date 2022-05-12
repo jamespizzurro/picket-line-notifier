@@ -224,5 +224,14 @@
             "youtube.com/c/FireKingInternational",
             "linkedin.com/company/fireking-international"
         ]
+    },
+    "Trachte Building Systems": {
+        "moreInfoUrl": "https://www.facebook.com/teamsters89",
+        "matchingUrlRegexes": [
+            "trachte.com",
+            "facebook.com/trachtebuildingsystems",
+            "linkedin.com/company/trachte-building-systems",
+            "youtube.com/user/Trachtedotcom"
+        ]
     }
 }
