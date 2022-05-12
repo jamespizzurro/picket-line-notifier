@@ -184,5 +184,15 @@
             "hireaveteran.com/ft-fueling-agent-300-bonus-detroit-metro-airport-detroit-metropolitan-wayne-county-airport-dtw-detroit-mi-usa-veteran-jobs-hire-a-veteran",
             "salary.com/job/swissport-international-ltd/dtw-tank-farm-agent/5abedd10-ebbb-40e7-b566-976d6ac502d9"
         ]
+    },
+    "GFL Environmental": {
+        "moreInfoUrl": "https://twitter.com/IUOELocal139",
+        "matchingUrlRegexes": [
+            "gflenv.com",
+            "facebook.com/gflcareers",
+            "linkedin.com/company/gflenvironmental",
+            "twitter.com/gflenv",
+            "youtube.com/channel/UC4j8cdyyHcZEXgSFX-jbD5g"
+        ]
     }
 }
