@@ -194,5 +194,15 @@
             "twitter.com/gflenv",
             "youtube.com/channel/UC4j8cdyyHcZEXgSFX-jbD5g"
         ]
+    },
+    "Cannabis Nation": {
+        "moreInfoUrl": "https://twitter.com/ufcw555",
+        "matchingUrlRegexes": [
+            "cannabisnationinc.com",
+            "instagram.com/cannabis.nation.inc",
+            "facebook.com/cnationinc",
+            "pinterest.com/cannabisnationinc",
+            "twitter.com/CDispensaries"
+        ]
     }
 }
