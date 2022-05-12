@@ -215,5 +215,14 @@
             "instagram.com/cedarssinai",
             "linkedin.com/company/cedars-sinai-medical-center"
         ]
+    },
+    "FireKing International": {
+        "moreInfoUrl": "https://www.facebook.com/teamsters89",
+        "matchingUrlRegexes": [
+            "fireking.com",
+            "facebook.com/WeAreFireKing",
+            "youtube.com/c/FireKingInternational",
+            "linkedin.com/company/fireking-international"
+        ]
     }
 }
