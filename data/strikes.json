@@ -235,5 +235,13 @@
             "youtube.com/user/Trachtedotcom",
             "twitter.com/trachte"
         ]
+    },
+    "Pocatello Ready Mix; Horrocks Ready Mix": {
+        "moreInfoUrl": "https://www.facebook.com/teamsterslocal983/",
+        "matchingUrlRegexes": [
+            "horrocksreadymix.com",
+            "facebook.com/Pocatello-Ready-Mix-106777744844607",
+            "facebook.com/pages/Horrocks%20Ready%20Mix/144064009295807"
+        ]
     }
 }
