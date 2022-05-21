@@ -243,5 +243,25 @@
             "facebook.com/Pocatello-Ready-Mix-106777744844607",
             "facebook.com/pages/Horrocks%20Ready%20Mix/144064009295807"
         ]
+    },
+    "McDonald's (2425 E 79th Street, Chicago, IL 60649)": {
+        "moreInfoUrl": "https://twitter.com/chifightfor15",
+        "matchingUrlRegexes": [
+            "mcdonalds.com",
+            "facebook.com/McDonalds",
+            "twitter.com/mcdonalds",
+            "youtube.com/channel/UCRI5ZedBs0_BYY4PlxD6m7w",
+            "youtube.com/c/McDonalds",
+            "instagram.com/mcdonalds",
+            "mcdonalds.tumblr.com",
+            "open.spotify.com/user/mcdonalds",
+            "mcdonalds.com/us/en-us/location/IL/CHICAGO/2425-E-79TH-ST/240.html",
+            "yelp.com/biz/mcdonalds-chicago-109",
+            "grubhub.com/restaurant/mcdonalds-2425-e-79th-st-chicago/2069086",
+            "seamless.com/menu/mcdonalds-2425-e-79th-st-chicago/2069086",
+            "ubereats.com/store/mcdonalds-79th-st-%26-yates/XKvGkotmQaCf4BXaW4TyqA",
+            "postmates.com/store/mcdonalds-79th-st-%26-yates/XKvGkotmQaCf4BXaW4TyqA",
+            "doordash.com/store/mcdonald's-chicago-658173"
+        ]
     }
 }
