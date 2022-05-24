@@ -265,5 +265,14 @@
             "twitter.com/starbucks",
             "starbucks.com/store-locator/store/1030314/millwood-ave-butler-st-3009-millwood-ave-columbia-sc-29205-us"
         ]
+    },
+    "St. Michael's Medical Center": {
+        "moreInfoUrl": "https://jneso.org/saint-mikes-strike/",
+        "matchingUrlRegexes": [
+            "smmcnj.com",
+            "facebook.com/SaintMichaelsMedicalCenter",
+            "twitter.com/SMMC_Newark",
+            "instagram.com/smmc_newark"
+        ]
     }
 }
