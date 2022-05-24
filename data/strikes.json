@@ -116,17 +116,6 @@
             "sirved.com/restaurant/kalamazoo-michigan-usa/maru-sushi-and-grill/549633"
         ]
     },
-    "Kenyon College": {
-        "moreInfoUrl": "https://www.kswoc.org/",
-        "matchingUrlRegexes": [
-            "kenyon.edu",
-            "facebook.com/kenyoncollege",
-            "twitter.com/kenyoncollege",
-            "linkedin.com/school/kenyon-college",
-            "youtube.com/user/KenyonCollegeVideo",
-            "instagram.com/kenyoncollege"
-        ]
-    },
     "Wendy's (Weaverville, NC)": {
         "moreInfoUrl": "https://twitter.com/RaiseUptheSouth/status/1520775512481800193",
         "matchingUrlRegexes": [
