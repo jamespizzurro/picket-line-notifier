@@ -5,12 +5,6 @@
             "warriormetcoal.com"
         ]
     },
-    "San Antonio Symphony": {
-        "moreInfoUrl": "https://www.mosas.org/",
-        "matchingUrlRegexes": [
-            "sasymphony.org"
-        ]
-    },
     "Exxon Mobil": {
         "moreInfoUrl": "https://usw13-243.org/",
         "matchingUrlRegexes": [
