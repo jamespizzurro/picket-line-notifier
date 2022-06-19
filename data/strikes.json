@@ -241,5 +241,16 @@
             "twitter.com/SMMC_Newark",
             "instagram.com/smmc_newark"
         ]
+    },
+    "Lockheed Martin - Miramar Air Station": {
+        "moreInfoUrl": "https://www.facebook.com/IAM-District-725-232091290150007/",
+        "matchingUrlRegexes": [
+            "lockheedmartin.com",
+            "facebook.com/lockheedmartin",
+            "twitter.com/lockheedmartin",
+            "youtube.com/user/LockheedMartinVideos",
+            "linkedin.com/company/lockheed-martin",
+            "instagram.com/lockheedmartin"
+        ]
     }
 }
