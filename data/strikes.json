@@ -252,5 +252,15 @@
             "linkedin.com/company/lockheed-martin",
             "instagram.com/lockheedmartin"
         ]
+    },
+    "Breakthru Beverage Group": {
+        "moreInfoUrl": "https://teamsters710.com/",
+        "matchingUrlRegexes": [
+            "breakthrubev.com",
+            "twitter.com/BreakthruBev",
+            "facebook.com/BreakthruBevGroup",
+            "linkedin.com/company/breakthru-beverage-group",
+            "instagram.com/breakthrubeveragegroup"
+        ]
     }
 }
