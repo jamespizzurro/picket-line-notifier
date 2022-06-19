@@ -184,17 +184,6 @@
             "twitter.com/CDispensaries"
         ]
     },
-    "Cedars-Sinai Medical Center": {
-        "moreInfoUrl": "https://www.seiu-uhw.org/the-cedars-sinai-strike-may-9-may-13/",
-        "matchingUrlRegexes": [
-            "cedars-sinai.org",
-            "facebook.com/CedarsSinai",
-            "twitter.com/cedarssinai",
-            "youtube.com/user/CEDARSSINAI",
-            "instagram.com/cedarssinai",
-            "linkedin.com/company/cedars-sinai-medical-center"
-        ]
-    },
     "FireKing International": {
         "moreInfoUrl": "https://www.facebook.com/teamsters89",
         "matchingUrlRegexes": [
