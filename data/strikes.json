@@ -122,18 +122,6 @@
             "indeed.com/cmp/Cnh-Industrial"
         ]
     },
-    "King's Material - Ready Mix Division": {
-        "moreInfoUrl": "https://www.facebook.com/Teamsters238/posts/pfbid0Sybrdmj8rZMZ1NcWSWXJrT69TZ73wKjtMXVQRgCNqB2YviKKr3wewgcnVXnCw9Pnl",
-        "matchingUrlRegexes": [
-            "kingsmaterial.com",
-            "facebook.com/kingsmaterial",
-            "instagram.com/kingsmaterial",
-            "linkedin.com/company/king's-material-inc.",
-            "glassdoor.com/Overview/Working-at-King-s-Material-EI_IE3528351.11,26.htm",
-            "glassdoor.com/Reviews/King-s-Material-Reviews-E3528351.htm",
-            "indeed.com/cmp/King's-Material,-Inc"
-        ]
-    },
     "Sysco Food Services of Baltimore": {
         "moreInfoUrl": "https://www.teamsters355.com/",
         "matchingUrlRegexes": [
