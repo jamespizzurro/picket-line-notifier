@@ -52,18 +52,6 @@
             "twitter.com/AlfredAlmondCS"
         ]
     },
-    "Great Lakes Coffee Roasting Company": {
-        "moreInfoUrl": "https://comradesincoffee.org/",
-        "matchingUrlRegexes": [
-            "greatlakescoffee.com",
-            "facebook.com/glcroasting",
-            "twitter.com/GLCRoasting",
-            "instagram.com/greatlakescoffee",
-            "linkedin.com/company/great-lakes-coffee-roasting-co",
-            "https://www.indeed.com/cmp/Great-Lakes-Coffee-Roasting-Co.-1",
-            "glassdoor.com/Overview/Working-at-Great-Lakes-Coffee-Roasting-EI_IE1081748.11,38.htm"
-        ]
-    },
     "Star Garden Topless Bar": {
         "moreInfoUrl": "https://www.strippersunited.org/",
         "matchingUrlRegexes": [
