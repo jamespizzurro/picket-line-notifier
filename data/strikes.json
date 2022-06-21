@@ -73,21 +73,6 @@
             "waze.com/live-map/directions/us/ca/los-angeles/star-garden-topless-dive-bar-north-hollywood"
         ]
     },
-    "Maru Sushi & Grill (in Kalamazoo, MI)": {
-        "moreInfoUrl": "https://www.gofundme.com/f/maru-workers-united",
-        "matchingUrlRegexes": [
-            "marusushi.com/location/kalamazoo",
-            "facebook.com/marukalamazoo",
-            "doordash.com/store/maru-sushi-&-grill-kalamazoo-795935",
-            "trycaviar.com/store/maru-sushi-&-grill-kalamazoo-795935",
-            "delivery.com/cities/kalamazoo/categories/restaurant/maru-sushi-e-michigan-ave",
-            "toasttab.com/maru-kalamazoo/v3",
-            "resy.com/cities/kal/maru-sushi-and-grill",
-            "yelp.com/biz/maru-sushi-and-grill-kalamazoo",
-            "restaurantji.com/mi/kalamazoo/maru-sushi-and-grill-",
-            "sirved.com/restaurant/kalamazoo-michigan-usa/maru-sushi-and-grill/549633"
-        ]
-    },
     "Wendy's (Weaverville, NC)": {
         "moreInfoUrl": "https://twitter.com/RaiseUptheSouth/status/1520775512481800193",
         "matchingUrlRegexes": [
