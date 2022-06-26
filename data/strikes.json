@@ -219,5 +219,15 @@
             "facebook.com/holcim.ltd",
             "instagram.com/holcim.ltd"
         ]
+    },
+    "Kerry Ingredients": {
+        "moreInfoUrl": "https://www.facebook.com/teamsters/posts/-strike-alert-teamsters-local-781-members-at-kerry-ingredients-in-melrose-park-i/332302958938512/",
+        "matchingUrlRegexes": [
+            "kerry.com",
+            "facebook.com/KerryTasteAndNutrition",
+            "linkedin.com/company/kerry",
+            "twitter.com/WeAreKerry",
+            "instagram.com/wearekerry"
+        ]
     }
 }
