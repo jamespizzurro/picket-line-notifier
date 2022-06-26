@@ -73,14 +73,6 @@
             "waze.com/live-map/directions/us/ca/los-angeles/star-garden-topless-dive-bar-north-hollywood"
         ]
     },
-    "Wendy's (Weaverville, NC)": {
-        "moreInfoUrl": "https://twitter.com/RaiseUptheSouth/status/1520775512481800193",
-        "matchingUrlRegexes": [
-            "locations.wendys.com/united-states/nc/weaverville/39-fairfield-approach-drive",
-            "grubhub.com/food/wendys/nc-weaverville",
-            "doordash.com/store/wendy's-weaverville-2319023"
-        ]
-    },
     "CNH Industrial": {
         "moreInfoUrl": "https://www.facebook.com/uawlocal180/posts/438526018077449",
         "matchingUrlRegexes": [
