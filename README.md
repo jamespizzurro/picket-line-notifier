@@ -59,14 +59,22 @@ For reference, here's an example of what an entry in `data/strikes.json` should 
     "moreInfoUrl": "https://twitter.com/wirecutterunion/status/1463734222812856321",
     "matchingUrlRegexes": [
         "wirecutter.com",
-        "nytimes.com\/wirecutter"
+        "nytimes.com/wirecutter",
+        "facebook.com/thewirecutter",
+        "instagram.com/wirecutter",
+        "twitter.com/wirecutter",
+        "tiktok.com/@wirecutter"
     ]
 }
 ```
 
-In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes` is the list of (case-insensitive) regular expressions that match on Wirecutter's websites that create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user should be navigated to when they click on that browser norification to learn more about it.
+In the example above, "Wirecutter" is the organization name, `matchingUrlRegexes` is the list of case-insensitive regular expressions that match on Wirecutter's websites which will create a browser notification alerting the user to the strike, and `moreInfoUrl` is the URL that the user will be navigated to when the user clicks on that browser notification to learn more about the strike.
 
-For `moreInfoUrl`, primary sources are preferred, as are landing pages or social media profiles that are being kept up to date about the strike as new events unfold, e.g. a union's landing page or Facebook/Twitter profile with ways to show your support shown prominently.
+For the organization name, make sure the organization isn't already listed, e.g. from another strike. This can happen with larger, international companies. If you run into this, simply edit the organization name for _both_ strikes, i.e. for the strike you're adding as well as for the one that was already there, to be more specific by including the location of the strike. This will help users know which strikes are more relevant to them at a glance.
+
+For `moreInfoUrl`, URLs to primary sources are preferred, as are those to landing pages or social media profiles that are actively being kept up to date about the strike as new events unfold, e.g. the union's landing page for the strike or a post on the union's Facebook or Twitter profile that includes a link to a strike donation page. If nothing like this is readily available though, links to secondary sources are okay, e.g. a news story that includes interviews with striking workers or union representatives that details why they're striking.
+
+For `matchingUrlRegexes`, we've found one of the easiest ways to generate this list is to go to the company's website and look for links to their social media pages. These are usually shown as icons at the top or bottom of most pages on their website and/or on 'About' or 'Contact Us' pages. You can then add these links to the list along with a link to the company's website, just be sure to remove boilerplate like `http://www.` from the beginning of all those links along with everything after the "?" or "#" character at the end of them. This will help ensure more people see the strike notification more often if they find themselves visiting these pages belonging to the company. For example, `https://www.tiktok.com/@wirecutter/video/7111430975724195118?is_copy_url=1&is_from_webapp=v1` should be added to the list as `tiktok.com/@wirecutter` to ensure users are notified whenever they view any video on Wirecutter's TikTok page in their web browser, not just the one particular video you viewed. A good way to check to see if you've removed too much from the URL is to visit your edited one (e.g. `tiktok.com/@wirecutter`) in your web browser; if it still takes you to the page you were expecting, e.g. Wirecutter's TikTok page, you're good, but if you are taken to a 404 page or something, you need to revisit your edits.
 
 ## Project Roadmap
 
