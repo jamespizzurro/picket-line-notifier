@@ -254,5 +254,15 @@
             "instagram.com/dhlus",
             "twitter.com/dhlexpress"
         ]
+    },
+    "Mesa Verde ICE Processing Center - The GEO Group": {
+        "moreInfoUrl": "https://www.pangealegal.org/news-and-updates/2022/6/7/l4s5d0en0wgtkysr5cfqsc3w40773c",
+        "matchingUrlRegexes": [
+            "geogroup.com",
+            "facebook.com/GEOGroup",
+            "twitter.com/WeAreGeo",
+            "linkedin.com/company/the-geo-group-inc",
+            "youtube.com/user/TheGEOGroupInc"
+        ]
     }
 }
