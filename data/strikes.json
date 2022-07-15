@@ -169,15 +169,6 @@
             "doordash.com/store/mcdonald's-chicago-658173"
         ]
     },
-    "St. Michael's Medical Center": {
-        "moreInfoUrl": "https://jneso.org/saint-mikes-strike/",
-        "matchingUrlRegexes": [
-            "smmcnj.com",
-            "facebook.com/SaintMichaelsMedicalCenter",
-            "twitter.com/SMMC_Newark",
-            "instagram.com/smmc_newark"
-        ]
-    },
     "Lockheed Martin - Miramar Air Station": {
         "moreInfoUrl": "https://www.facebook.com/IAM-District-725-232091290150007/",
         "matchingUrlRegexes": [
