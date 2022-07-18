@@ -270,5 +270,19 @@
             "yelp.com/biz/dollar-general-holly-hill-3",
             "location.westernunion.com/us/sc/holly-hill/3a433a681ded51f3c8f18b7ca7ccf396"
         ]
+    },
+    "Starbucks (874 Commonwealth Ave, Brookline, MA 02215)": {
+        "moreInfoUrl": "https://twitter.com/BostonSBWU",
+        "matchingUrlRegexes": [
+            "starbucks.com",
+            "spotify.com/user/starbucks",
+            "facebook.com/Starbucks",
+            "pinterest.com/starbucks",
+            "instagram.com/starbucks",
+            "youtube.com/starbucks",
+            "twitter.com/starbucks",
+            "yelp.com/biz/starbucks-brookline-17",
+            "foursquare.com/v/starbucks/4a6d29b9f964a520a1d21fe3"
+        ]
     }
 }
