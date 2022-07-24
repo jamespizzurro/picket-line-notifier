@@ -294,5 +294,24 @@
             "linkedin.com/company/dignity-health",
             "facebook.com/SequoiaHospital"
         ]
+    },
+    "Tyson Fresh Meats": {
+        "moreInfoUrl": "https://www.d70iam.org/LL1989/",
+        "matchingUrlRegexes": [
+            "tysonfreshmeats.com",
+            "travelks.com/listing/tyson-fresh-meats/3279",
+            "twitter.com/TysonFoods",
+            "twitter.com/tysonbrand",
+            "facebook.com/Tyson-Fresh-Meats-225122327502285",
+            "facebook.com/TysonFoods",
+            "facebook.com/TysonBrand",
+            "linkedin.com/company/tyson-fresh-meats-inc.",
+            "linkedin.com/company/tyson-fresh-meats-team",
+            "linkedin.com/company/tyson-foods",
+            "instagram.com/tysonfoods/",
+            "instagram.com/tysonbrand",
+            "glassdoor.com/Overview/Working-at-Tyson-EI_IE342.11,16.htm",
+            "indeed.com/cmp/Tyson-Foods-Incorporated"
+        ]
     }
 }
