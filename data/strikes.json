@@ -284,5 +284,15 @@
             "yelp.com/biz/starbucks-brookline-17",
             "foursquare.com/v/starbucks/4a6d29b9f964a520a1d21fe3"
         ]
+    },
+    "Sequoia Hospital - Dignity Health": {
+        "moreInfoUrl": "https://www.afscme.org/blog/workers-at-california-hospital-begin-strike-today-demanding-a-fair-contract",
+        "matchingUrlRegexes": [
+            "dignityhealth.org/bayarea/locations/sequoia",
+            "locations.dignityhealth.org/sequoia-hospital",
+            "linkedin.com/company/sequoia-hospital---dignity-health",
+            "linkedin.com/company/dignity-health",
+            "facebook.com/SequoiaHospital"
+        ]
     }
 }
