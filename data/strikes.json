@@ -190,27 +190,6 @@
             "instagram.com/breakthrubeveragegroup"
         ]
     },
-    "Chicago Area Aggregate Producers Association - Lehigh Hanson, Vulcan Materials and Lafarge Holcim": {
-        "moreInfoUrl": "https://local150.org/mpstrike/",
-        "matchingUrlRegexes": [
-            "lehighhanson.com",
-            "facebook.com/lhansoninc",
-            "twitter.com/lehighhanson",
-            "linkedin.com/company/lehigh-hanson",
-            "youtube.com/user/LehighHanson",
-            "vulcanmaterials.com",
-            "facebook.com/VulcanMaterialsCompany",
-            "instagram.com/vulcanmaterialscompany",
-            "youtube.com/user/VulcanCorporate",
-            "linkedin.com/company/vulcan-materials-company",
-            "holcim.com",
-            "linkedin.com/company/holcim",
-            "twitter.com/Holcim",
-            "youtube.com/c/Holcimltd",
-            "facebook.com/holcim.ltd",
-            "instagram.com/holcim.ltd"
-        ]
-    },
     "Kerry Ingredients": {
         "moreInfoUrl": "https://www.facebook.com/teamsters/posts/-strike-alert-teamsters-local-781-members-at-kerry-ingredients-in-melrose-park-i/332302958938512/",
         "matchingUrlRegexes": [
