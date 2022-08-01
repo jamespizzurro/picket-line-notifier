@@ -292,5 +292,24 @@
             "glassdoor.com/Overview/Working-at-Tyson-EI_IE342.11,16.htm",
             "indeed.com/cmp/Tyson-Foods-Incorporated"
         ]
+    },
+    "MetroAccess - Transdev": {
+        "moreInfoUrl": "https://www.atulocal689.org/press/press-release-local-689-members-employed-by-transdev-at-metroaccess-hubbard-road-garage-to-strike-starting-monday-august-1st",
+        "matchingUrlRegexes": [
+            "metroaccess.wmata.com",
+            "wmata.com/service/accessibility/metro-access",
+            "transdevna.com",
+            "twitter.com/transdevna",
+            "facebook.com/transdevna",
+            "linkedin.com/company/transdev-north-america",
+            "transdev.com",
+            "youtube.com/channel/UCDjyGNWhVvG_8MaBf1L_IgQ",
+            "youtube.com/c/TransdevGroup",
+            "facebook.com/TransdevGroup",
+            "twitter.com/transdev",
+            "linkedin.com/company/-transdev",
+            "instagram.com/transdevgroup",
+            "transdevna.jobs"
+        ]
     }
 }
