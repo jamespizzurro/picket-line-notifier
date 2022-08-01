@@ -131,16 +131,6 @@
             "twitter.com/CDispensaries"
         ]
     },
-    "FireKing International": {
-        "moreInfoUrl": "https://www.facebook.com/teamsters89",
-        "matchingUrlRegexes": [
-            "fireking.com",
-            "facebook.com/WeAreFireKing",
-            "youtube.com/c/FireKingInternational",
-            "linkedin.com/company/fireking-international",
-            "twitter.com/FKIgroup"
-        ]
-    },
     "Pocatello Ready Mix; Horrocks Ready Mix": {
         "moreInfoUrl": "https://www.facebook.com/teamsterslocal983/",
         "matchingUrlRegexes": [
