@@ -301,5 +301,13 @@
             "instagram.com/transdevgroup",
             "transdevna.jobs"
         ]
+    },
+    "Ingredion": {
+        "moreInfoUrl": "https://www.kcrg.com/2022/08/01/workers-vote-strike-ingredion-cedar-rapids/",
+        "matchingUrlRegexes": [
+            "linkedin.com/company/ingredion-incorporated",
+            "twitter.com/Ingredion",
+            "instagram.com/ingredionus"
+        ]
     }
 }
