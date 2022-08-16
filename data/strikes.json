@@ -290,15 +290,5 @@
             "twitter.com/Ingredion",
             "instagram.com/ingredionus"
         ]
-    },
-    "Maximus": {
-        "moreInfoUrl": "https://www.facebook.com/CallCenterWorkersUnited/posts/pfbid026rRJciJ9fz1zK17aJqdrTVNSoXacgpT4J7u99ZngkNuPMZ6FxsDsPm5c8W81x61Fl",
-        "matchingUrlRegexes": [
-            "maximus.com",
-            "twitter.com/MAXIMUS_news",
-            "linkedin.com/company/maximus",
-            "youtube.com/user/MAXIMUScorporate",
-            "instagram.com/maximuscareers"
-        ]
     }
 }
