@@ -290,5 +290,18 @@
             "twitter.com/Ingredion",
             "instagram.com/ingredionus"
         ]
+    },
+    "Kaiser Permanente": {
+        "moreInfoUrl": "https://nuhw.org/kaiser-dont-deny/kaiser-strike/",
+        "matchingUrlRegexes": [
+            "kaiserpermanente.org",
+            "facebook.com/kpthrive",
+            "twitter.com/aboutKP",
+            "linkedin.com/company/kaiser-permanente",
+            "youtube.com/kaiserpermanenteorg",
+            "instagram.com/kpthrive",
+            "pinterest.com/kpthrive",
+            "twitter.com/kpthrive"
+        ]
     }
 }
