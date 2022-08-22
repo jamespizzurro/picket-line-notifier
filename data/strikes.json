@@ -170,16 +170,6 @@
             "instagram.com/lockheedmartin"
         ]
     },
-    "Breakthru Beverage Group": {
-        "moreInfoUrl": "https://teamsters710.com/",
-        "matchingUrlRegexes": [
-            "breakthrubev.com",
-            "twitter.com/BreakthruBev",
-            "facebook.com/BreakthruBevGroup",
-            "linkedin.com/company/breakthru-beverage-group",
-            "instagram.com/breakthrubeveragegroup"
-        ]
-    },
     "Kerry Ingredients": {
         "moreInfoUrl": "https://www.facebook.com/teamsters/posts/-strike-alert-teamsters-local-781-members-at-kerry-ingredients-in-melrose-park-i/332302958938512/",
         "matchingUrlRegexes": [
