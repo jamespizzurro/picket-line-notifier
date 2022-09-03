@@ -321,5 +321,14 @@
             "tiktok.com/@cornnutsbrand",
             "instagram.com/showmeyourcornnuts"
         ]
+    },
+    "Homegrown": {
+        "moreInfoUrl": "https://actionnetwork.org/forms/homegrown-workers-solidarity-petition",
+        "matchingUrlRegexes": [
+            "eathomegrown.com",
+            "facebook.com/eathomegrown",
+            "twitter.com/eathomegrown",
+            "instagram.com/eathomegrown"
+        ]
     }
 }
