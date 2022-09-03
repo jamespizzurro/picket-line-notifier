@@ -330,5 +330,17 @@
             "twitter.com/eathomegrown",
             "instagram.com/eathomegrown"
         ]
+    },
+    "Kent School District": {
+        "moreInfoUrl": "https://www.facebook.com/KEAUNION",
+        "matchingUrlRegexes": [
+            "kent.k12.wa.us",
+            "facebook.com/KentSchools415",
+            "twitter.com/kentschools415",
+            "youtube.com/user/KentSchoolDistrictIT",
+            "instagram.com/kentschools415",
+            "linkedin.com/school/kent-school-district",
+            "kent.parentlink.net"
+        ]
     }
 }
