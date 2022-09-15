@@ -330,5 +330,16 @@
             "twitter.com/eathomegrown",
             "instagram.com/eathomegrown"
         ]
+    },
+    "Ridgefield School District": {
+        "moreInfoUrl": "https://www.facebook.com/RidgefieldEA/",
+        "matchingUrlRegexes": [
+            "ridgefieldsd.org",
+            "apps.apple.com/us/app/ridgefield-school-district-wa/id1147246612",
+            "play.google.com/store/apps/details?id=com.apptegy.ridgefield",
+            "facebook.com/RidgefieldSchools",
+            "twitter.com/RidgefieldSD",
+            "app.peachjar.com/flyers/all/districts/3118"
+        ]
     }
 }
