@@ -326,5 +326,16 @@
             "linkedin.com/company/weyerhaeuser",
             "twitter.com/weyerhaeuser"
         ]
+    },
+    "Elkhart Products Corporation": {
+        "moreInfoUrl": "https://www.wvpe.org/2022-09-23/workers-strike-for-higher-wages-at-elkhart-piping-manufacturer",
+        "matchingUrlRegexes": [
+            "https://www.elkhartproducts.com/about",
+            "https://aalberts-ips.com/",
+            "https://twitter.com/ElkhartProducts",
+            "https://www.facebook.com/pages/Elkhart-Products-Corporation/333693826731585",
+            "https://www.linkedin.com/company/elkhart-products-corporation/",
+            "https://mobile.twitter.com/elkhartproducts"
+        ]
     }
 }
