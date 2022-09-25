@@ -316,5 +316,15 @@
             "twitter.com/eathomegrown",
             "instagram.com/eathomegrown"
         ]
+    },
+    "Weyerhaeuser": {
+        "moreInfoUrl": "https://www.iamw24.org/copy-of-weyerhaeuser-strike",
+        "matchingUrlRegexes": [
+            "weyerhaeuser.com",
+            "facebook.com/WeyerhaeuserCompany",
+            "instagram.com/weyerhaeuser",
+            "linkedin.com/company/weyerhaeuser",
+            "twitter.com/weyerhaeuser"
+        ]
     }
 }
