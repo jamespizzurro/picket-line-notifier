@@ -121,14 +121,6 @@
             "youtube.com/channel/UC4j8cdyyHcZEXgSFX-jbD5g"
         ]
     },
-    "Pocatello Ready Mix; Horrocks Ready Mix": {
-        "moreInfoUrl": "https://www.facebook.com/teamsterslocal983/",
-        "matchingUrlRegexes": [
-            "horrocksreadymix.com",
-            "facebook.com/Pocatello-Ready-Mix-106777744844607",
-            "facebook.com/pages/Horrocks%20Ready%20Mix/144064009295807"
-        ]
-    },
     "McDonald's (2425 E 79th Street, Chicago, IL 60649)": {
         "moreInfoUrl": "https://twitter.com/chifightfor15",
         "matchingUrlRegexes": [
