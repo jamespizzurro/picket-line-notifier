@@ -212,16 +212,6 @@
             "location.westernunion.com/us/sc/holly-hill/3a433a681ded51f3c8f18b7ca7ccf396"
         ]
     },
-    "Sequoia Hospital - Dignity Health": {
-        "moreInfoUrl": "https://www.afscme.org/blog/workers-at-california-hospital-begin-strike-today-demanding-a-fair-contract",
-        "matchingUrlRegexes": [
-            "dignityhealth.org/bayarea/locations/sequoia",
-            "locations.dignityhealth.org/sequoia-hospital",
-            "linkedin.com/company/sequoia-hospital---dignity-health",
-            "linkedin.com/company/dignity-health",
-            "facebook.com/SequoiaHospital"
-        ]
-    },
     "Tyson Fresh Meats": {
         "moreInfoUrl": "https://www.d70iam.org/LL1989/",
         "matchingUrlRegexes": [
