@@ -13,12 +13,6 @@
             "corporate.exxonmobil.com"
         ]
     },
-    "Green Mountain Transit": {
-        "moreInfoUrl": "https://www.facebook.com/Vermontlocal597",
-        "matchingUrlRegexes": [
-            "ridegmt.com"
-        ]
-    },
     "Johnson Brothers": {
         "moreInfoUrl": "https://www.facebook.com/teamsters251/",
         "matchingUrlRegexes": [
