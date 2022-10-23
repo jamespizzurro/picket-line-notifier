@@ -305,5 +305,15 @@
             "twitter.com/PittsburghPG",
             "instagram.com/pittsburghpg"
         ]
+    },
+    "Swire Coca-Cola": {
+        "moreInfoUrl": "https://www.facebook.com/Teamsters760",
+        "matchingUrlRegexes": [
+            "swirecc.com",
+            "facebook.com/SwireCCUSA",
+            "twitter.com/swirecc",
+            "instagram.com/swirecocacolausa",
+            "linkedin.com/company/swire-coca-cola-usa"
+        ]
     }
 }
