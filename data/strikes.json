@@ -239,19 +239,6 @@
             "instagram.com/ingredionus"
         ]
     },
-    "Kaiser Permanente": {
-        "moreInfoUrl": "https://nuhw.org/kaiser-dont-deny/kaiser-strike/",
-        "matchingUrlRegexes": [
-            "kaiserpermanente.org",
-            "facebook.com/kpthrive",
-            "twitter.com/aboutKP",
-            "linkedin.com/company/kaiser-permanente",
-            "youtube.com/kaiserpermanenteorg",
-            "instagram.com/kpthrive",
-            "pinterest.com/kpthrive",
-            "twitter.com/kpthrive"
-        ]
-    },
     "CoreCivic - Central Arizona Florence Correctional Complex": {
         "moreInfoUrl": "https://www.facebook.com/ArizonaPipeTrades469/posts/pfbid02QTRqNa53ZFmsRBQnpc9JASav2Hd83pdX2uiPwpAycmrzo8gcEwoWYwcAmRDYQVtUl",
         "matchingUrlRegexes": [
