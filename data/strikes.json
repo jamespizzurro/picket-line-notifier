@@ -315,5 +315,17 @@
             "instagram.com/swirecocacolausa",
             "linkedin.com/company/swire-coca-cola-usa"
         ]
+    },
+    "Starbucks (933 Elmwood Ave, Buffalo, NY 14222)": {
+        "moreInfoUrl": "https://twitter.com/SBWorkersUnited",
+        "matchingUrlRegexes": [
+            "starbucks.com",
+            "spotify.com/user/starbucks",
+            "facebook.com/Starbucks",
+            "pinterest.com/starbucks",
+            "instagram.com/starbucks",
+            "youtube.com/starbucks",
+            "twitter.com/starbucks"
+        ]
     }
 }
