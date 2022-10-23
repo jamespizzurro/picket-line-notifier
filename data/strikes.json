@@ -296,5 +296,14 @@
             "https://www.linkedin.com/company/elkhart-products-corporation/",
             "https://mobile.twitter.com/elkhartproducts"
         ]
+    },
+    "Pittsburgh Post-Gazette - Block Communications": {
+        "moreInfoUrl": "https://cwa-union.org/support-striking-pittsburgh-post-gazette-workers",
+        "matchingUrlRegexes": [
+            "post-gazette.com",
+            "facebook.com/pittsburghpostgazette",
+            "twitter.com/PittsburghPG",
+            "instagram.com/pittsburghpg"
+        ]
     }
 }
