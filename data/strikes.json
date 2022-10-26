@@ -322,5 +322,19 @@
             "youtube.com/starbucks",
             "twitter.com/starbucks"
         ]
+    },
+    "Alta Bates Summit Medical Center - Sutter Health": {
+        "moreInfoUrl": "https://www.nationalnursesunited.org/press/nurses-begin-five-day-strike-alta-bates-summit-medical-center-monday-oct-24",
+        "matchingUrlRegexes": [
+            "sutterhealth.org/absmc",
+            "linkedin.com/company/sutter-health",
+            "youtube.com/sutterhealth",
+            "facebook.com/SutterHealth",
+            "twitter.com/SutterHealth",
+            "glassdoor.com/Overview/Working-at-Sutter-Health-EI_IE4654.11,24.htm",
+            "instagram.com/sutterhealth",
+            "hcai.ca.gov/facility/alta-bates-summit-medical-center",
+            "facebook.com/ABSMCEBR"
+        ]
     }
 }
