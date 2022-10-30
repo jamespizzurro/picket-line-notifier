@@ -261,15 +261,6 @@
             "instagram.com/showmeyourcornnuts"
         ]
     },
-    "Homegrown": {
-        "moreInfoUrl": "https://actionnetwork.org/forms/homegrown-workers-solidarity-petition",
-        "matchingUrlRegexes": [
-            "eathomegrown.com",
-            "facebook.com/eathomegrown",
-            "twitter.com/eathomegrown",
-            "instagram.com/eathomegrown"
-        ]
-    },
     "Weyerhaeuser": {
         "moreInfoUrl": "https://www.iamw24.org/copy-of-weyerhaeuser-strike",
         "matchingUrlRegexes": [
