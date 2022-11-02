@@ -261,16 +261,6 @@
             "instagram.com/showmeyourcornnuts"
         ]
     },
-    "Weyerhaeuser": {
-        "moreInfoUrl": "https://www.iamw24.org/copy-of-weyerhaeuser-strike",
-        "matchingUrlRegexes": [
-            "weyerhaeuser.com",
-            "facebook.com/WeyerhaeuserCompany",
-            "instagram.com/weyerhaeuser",
-            "linkedin.com/company/weyerhaeuser",
-            "twitter.com/weyerhaeuser"
-        ]
-    },
     "Elkhart Products Corporation": {
         "moreInfoUrl": "https://www.wvpe.org/2022-09-23/workers-strike-for-higher-wages-at-elkhart-piping-manufacturer",
         "matchingUrlRegexes": [
