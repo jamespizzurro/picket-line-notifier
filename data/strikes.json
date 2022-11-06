@@ -191,21 +191,6 @@
             "youtube.com/user/TheGEOGroupInc"
         ]
     },
-    "Dollar General (5208 State Rd, Holly Hill, SC 29059)": {
-        "moreInfoUrl": "https://twitter.com/RaiseUptheSouth/status/1548377298260217857",
-        "matchingUrlRegexes": [
-            "dollargeneral.com",
-            "facebook.com/dollargeneral",
-            "twitter.com/DollarGeneral",
-            "instagram.com/dollargeneral",
-            "pinterest.com/mydollargeneral",
-            "linkedin.com/company/dollar-general",
-            "youtube.com/user/DOLLARGENERAL",
-            "stores.dollargeneral.com/sc/holly-hill/17136",
-            "yelp.com/biz/dollar-general-holly-hill-3",
-            "location.westernunion.com/us/sc/holly-hill/3a433a681ded51f3c8f18b7ca7ccf396"
-        ]
-    },
     "Tyson Fresh Meats": {
         "moreInfoUrl": "https://www.d70iam.org/LL1989/",
         "matchingUrlRegexes": [
