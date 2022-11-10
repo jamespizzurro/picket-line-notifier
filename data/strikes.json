@@ -298,15 +298,5 @@
             "youtube.com/user/MAXIMUScorporate",
             "instagram.com/maximuscareers"
         ]
-    },
-    "Orange County Transportation Authority": {
-        "moreInfoUrl": "https://www.facebook.com/Local952Teamsters/",
-        "matchingUrlRegexes": [
-            "octa.net",
-            "facebook.com/goOCTA",
-            "twitter.com/goocta",
-            "youtube.com/user/goOCTA",
-            "instagram.com/goOCTA"
-        ]
     }
 }
