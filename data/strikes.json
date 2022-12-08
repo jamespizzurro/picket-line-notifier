@@ -298,5 +298,19 @@
             "youtube.com/user/MAXIMUScorporate",
             "instagram.com/maximuscareers"
         ]
+    },
+    "The New York Times": {
+        "moreInfoUrl": "https://twitter.com/NYTimesGuild/status/1598678808114204678",
+        "matchingUrlRegexes": [
+            "nytimes.com",
+            "facebook.com/nytimes",
+            "twitter.com/nytimes",
+            "instagram.com/nytimes",
+            "youtube.com/channel/UCqnbDFdCpuN8CMEg0VuEBqA",
+            "youtube.com/@nytimes",
+            "pinterest.com/nytimes",
+            "spotify.com/user/nytimes",
+            "linkedin.com/company/the-new-york-times"
+        ]
     }
 }
