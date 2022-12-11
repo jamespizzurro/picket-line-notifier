@@ -228,24 +228,6 @@
             "instagram.com/corecivic"
         ]
     },
-    "Hormel": {
-        "moreInfoUrl": "https://bctgm.org/2022/08/16/3-ways-to-support-the-cornnutsstrike/",
-        "matchingUrlRegexes": [
-            "hormel.com",
-            "hormelfoods.com",
-            "facebook.com/HormelFoodsCorp",
-            "twitter.com/HormelFoods",
-            "instagram.com/hormelfoods",
-            "youtube.com/hormelfoodscorp",
-            "pinterest.com/hormelfoodscorp",
-            "linkedin.com/company/hormel-foods",
-            "cornnuts.com",
-            "facebook.com/cornnuts",
-            "twitter.com/CornNuts",
-            "tiktok.com/@cornnutsbrand",
-            "instagram.com/showmeyourcornnuts"
-        ]
-    },
     "Elkhart Products Corporation": {
         "moreInfoUrl": "https://www.wvpe.org/2022-09-23/workers-strike-for-higher-wages-at-elkhart-piping-manufacturer",
         "matchingUrlRegexes": [
