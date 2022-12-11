@@ -326,5 +326,15 @@
             "twitter.com/fwphil",
             "instagram.com/fwphil"
         ]
+    },
+    "HarperCollins": {
+        "moreInfoUrl": "https://www.facebook.com/profile.php?id=100063493332901",
+        "matchingUrlRegexes": [
+            "harpercollins.com",
+            "twitter.com/HarperCollins",
+            "facebook.com/HarperCollins",
+            "instagram.com/harpercollins",
+            "tiktok.com/@harpercollins"
+        ]
     }
 }
