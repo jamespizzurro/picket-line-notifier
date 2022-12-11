@@ -280,5 +280,14 @@
             "youtube.com/user/MAXIMUScorporate",
             "instagram.com/maximuscareers"
         ]
+    },
+    "Fort Wayne Philharmonic": {
+        "moreInfoUrl": "https://www.wpta21.com/2022/12/08/fort-wayne-philharmonic-musicians-prepared-go-strike-amid-contract-negotiations/",
+        "matchingUrlRegexes": [
+            "fwphil.org",
+            "facebook.com/fortwaynephilharmonic",
+            "twitter.com/fwphil",
+            "instagram.com/fwphil"
+        ]
     }
 }
