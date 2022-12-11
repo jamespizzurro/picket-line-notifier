@@ -281,6 +281,18 @@
             "instagram.com/maximuscareers"
         ]
     },
+    "College of the Canyons": {
+        "moreInfoUrl": "https://www.facebook.com/groups/aftlocal6262/permalink/5425032527595022/",
+        "matchingUrlRegexes": [
+            "canyons.edu",
+            "cocathletics.com",
+            "twitter.com/canyons",
+            "facebook.com/collegeofthecanyons",
+            "linkedin.com/school/college-of-the-canyons",
+            "instagram.com/collegeofthecanyons",
+            "glassdoor.com/Overview/Working-at-College-of-the-Canyons-EI_IE129390.11,33.htm"
+        ]
+    },
     "University of California": {
         "moreInfoUrl": "https://www.fairucnow.org/2022/11/02/press-release-nov-2-2022/",
         "matchingUrlRegexes": [
