@@ -336,5 +336,16 @@
             "instagram.com/harpercollins",
             "tiktok.com/@harpercollins"
         ]
+    },
+    "Wabtec": {
+        "moreInfoUrl": "https://laborbeaconkc.com/ibew-local-1464-members-strike-over-misclassification-of-workers-and-for-fair-wages/",
+        "matchingUrlRegexes": [
+            "wabteccorp.com",
+            "linkedin.com/company/wabtec-corporation",
+            "facebook.com/wabtec",
+            "instagram.com/wabteccorporation",
+            "twitter.com/WabtecCorp",
+            "youtube.com/user/WabtecCorp"
+        ]
     }
 }
