@@ -293,17 +293,6 @@
             "glassdoor.com/Overview/Working-at-College-of-the-Canyons-EI_IE129390.11,33.htm"
         ]
     },
-    "University of California": {
-        "moreInfoUrl": "https://www.fairucnow.org/2022/11/02/press-release-nov-2-2022/",
-        "matchingUrlRegexes": [
-            "universityofcalifornia.edu",
-            "linkedin.com/school/university-of-california",
-            "twitter.com/UofCalifornia",
-            "facebook.com/universityofcalifornia",
-            "glassdoor.com/Overview/Working-at-University-of-California-EI_IE3015.11,35.htm",
-            "instagram.com/uofcalifornia"
-        ]
-    },
     "Fort Worth Star-Telegram - McClatchy": {
         "moreInfoUrl": "https://fortworthnewsguild.org/news/fort-worth-newsguild-going-strike-heres-why",
         "matchingUrlRegexes": [
