@@ -293,20 +293,6 @@
             "glassdoor.com/Overview/Working-at-College-of-the-Canyons-EI_IE129390.11,33.htm"
         ]
     },
-    "Fort Worth Star-Telegram - McClatchy": {
-        "moreInfoUrl": "https://fortworthnewsguild.org/news/fort-worth-newsguild-going-strike-heres-why",
-        "matchingUrlRegexes": [
-            "mcclatchy.com",
-            "star-telegram.com",
-            "facebook.com/startelegram",
-            "youtube.com/user/startelegramvideo",
-            "twitter.com/startelegram",
-            "apps.apple.com/us/app/fort-worth-star-telegram-news/id389708740",
-            "instagram.com/startelegram",
-            "linkedin.com/company/fort-worth-star-telegram",
-            "glassdoor.com/Overview/Working-at-Fort-Worth-Star-Telegram-EI_IE199484.11,35.htm"
-        ]
-    },
     "Fort Wayne Philharmonic": {
         "moreInfoUrl": "https://www.wpta21.com/2022/12/08/fort-wayne-philharmonic-musicians-prepared-go-strike-amid-contract-negotiations/",
         "matchingUrlRegexes": [
