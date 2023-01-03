@@ -271,16 +271,6 @@
             "twitter.com/starbucks"
         ]
     },
-    "Maximus": {
-        "moreInfoUrl": "https://cwa-union.org/news/organizing-update-181",
-        "matchingUrlRegexes": [
-            "maximus.com",
-            "twitter.com/MAXIMUS_news",
-            "linkedin.com/company/maximus",
-            "youtube.com/user/MAXIMUScorporate",
-            "instagram.com/maximuscareers"
-        ]
-    },
     "College of the Canyons": {
         "moreInfoUrl": "https://www.facebook.com/groups/aftlocal6262/permalink/5425032527595022/",
         "matchingUrlRegexes": [
