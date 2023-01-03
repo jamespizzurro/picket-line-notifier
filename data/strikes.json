@@ -25,18 +25,6 @@
             "mecexpo.com"
         ]
     },
-    "Portland Pie Company": {
-        "moreInfoUrl": "https://www.washingtonpost.com/nation/2022/01/04/portland-pie-covid-protest-maine/",
-        "matchingUrlRegexes": [
-            "portlandpie.com",
-            "facebook.com/portlandpieco",
-            "twitter.com/portlandpieco",
-            "instagram.com/portlandpieco",
-            "linkedin.com/company/portland-pie-comapny",
-            "indeed.com/cmp/Portland-Pie-Company",
-            "glassdoor.com/Overview/Working-at-Portland-Pie-EI_IE970965.11,23.htm"
-        ]
-    },
     "Alfred-Almond Central School District": {
         "moreInfoUrl": "https://www.weny.com/story/45591835/citing-unfair-working-conditions-7-out-of-9-alfred-almond-bus-drivers-hold-sick-out",
         "matchingUrlRegexes": [
