@@ -249,16 +249,6 @@
             "blockcommunications.com"
         ]
     },
-    "Swire Coca-Cola": {
-        "moreInfoUrl": "https://www.facebook.com/Teamsters760",
-        "matchingUrlRegexes": [
-            "swirecc.com",
-            "facebook.com/SwireCCUSA",
-            "twitter.com/swirecc",
-            "instagram.com/swirecocacolausa",
-            "linkedin.com/company/swire-coca-cola-usa"
-        ]
-    },
     "Starbucks (933 Elmwood Ave, Buffalo, NY 14222)": {
         "moreInfoUrl": "https://twitter.com/SBWorkersUnited",
         "matchingUrlRegexes": [
