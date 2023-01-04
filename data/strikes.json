@@ -290,5 +290,16 @@
             "twitter.com/WabtecCorp",
             "youtube.com/user/WabtecCorp"
         ]
+    },
+    "Howard Brown Health": {
+        "moreInfoUrl": "https://www.gofundme.com/f/solidarity-fund-hbh",
+        "matchingUrlRegexes": [
+            "howardbrown.org",
+            "facebook.com/HowardBrownHealthCenter",
+            "twitter.com/howardbrownhc",
+            "instagram.com/howardbrownhealth",
+            "youtube.com/c/HowardBrownHealth",
+            "tiktok.com/@howardbrownhealth"
+        ]
     }
 }
