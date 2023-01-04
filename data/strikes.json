@@ -290,17 +290,5 @@
             "twitter.com/WabtecCorp",
             "youtube.com/user/WabtecCorp"
         ]
-    },
-    "Alta Bates Summit Medical Center - Sutter Health": {
-        "moreInfoUrl": "https://www.nationalnursesunited.org/press/alta-bates-summit-nurses-to-hold-strike-in-oakland-and-berkeley",
-        "matchingUrlRegexes": [
-            "sutterhealth.org",
-            "linkedin.com/company/sutter-health",
-            "youtube.com/sutterhealth",
-            "facebook.com/SutterHealth",
-            "twitter.com/SutterHealth",
-            "glassdoor.com/Overview/Working-at-Sutter-Health-EI_IE4654.11,24.htm",
-            "instagram.com/sutterhealth"
-        ]
     }
 }
