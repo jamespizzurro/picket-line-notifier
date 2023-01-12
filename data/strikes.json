@@ -216,18 +216,6 @@
             "blockcommunications.com"
         ]
     },
-    "Starbucks (933 Elmwood Ave, Buffalo, NY 14222)": {
-        "moreInfoUrl": "https://twitter.com/SBWorkersUnited",
-        "matchingUrlRegexes": [
-            "starbucks.com",
-            "spotify.com/user/starbucks",
-            "facebook.com/Starbucks",
-            "pinterest.com/starbucks",
-            "instagram.com/starbucks",
-            "youtube.com/starbucks",
-            "twitter.com/starbucks"
-        ]
-    },
     "College of the Canyons": {
         "moreInfoUrl": "https://www.facebook.com/groups/aftlocal6262/permalink/5425032527595022/",
         "matchingUrlRegexes": [
