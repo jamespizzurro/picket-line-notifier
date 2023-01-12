@@ -44,6 +44,10 @@ This browser extension is not yet available from [Opera's Extensions page](hhttp
 
 ## FAQ
 
+### The browser extension hasn't been updated in a while. Is it still being worked on?
+
+Yes! After you've installed our browser extension, our list of active strikes is downloaded periodically by your browser, so just because you're not seeing browser extension updates for your browser doesn't mean you're not getting the latest strike notifications. We're regularly adding new strikes to our browser extension regardless of whether or not we're regularly pushing new browser extension updates.
+
 ### I'm not seeing any browser notifications on Windows. What gives?
 
 You may have Focus Assist enabled, which can block browser notifications. [Click here](https://support.microsoft.com/en-us/windows/make-it-easier-to-focus-on-tasks-0d259fd9-e9d0-702c-c027-007f0e78eaf2) (and scroll down to the 'Quiet down those notifications' section) for some general instructions on how to configure it.
