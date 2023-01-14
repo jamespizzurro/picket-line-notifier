@@ -257,5 +257,16 @@
             "twitter.com/WabtecCorp",
             "youtube.com/user/WabtecCorp"
         ]
+    },
+    "Keolis - Loudoun County Transit": {
+        "moreInfoUrl": "https://www.atulocal689.org/press/press-release-fed-up-loudoun-county-transit-workers-employed-by-keolis-on-strike-tomorrow-january-11",
+        "matchingUrlRegexes": [
+            "keoliscs.com",
+            "loudoun.gov",
+            "facebook.com/LoudounCountyVa",
+            "twitter.com/LoudounCoGovt",
+            "youtube.com/user/loudouncountyva",
+            "nextdoor.com/agency-detail/va/loudoun-county/loudoun-county-government"
+        ]
     }
 }
