@@ -257,26 +257,5 @@
             "twitter.com/WabtecCorp",
             "youtube.com/user/WabtecCorp"
         ]
-    },
-    "Montefiore Medical Center": {
-        "moreInfoUrl": "https://www.nysna.org/blog/2023/01/06/nyc-nurses-ready-strike#.Y73sUOzMJBY",
-        "matchingUrlRegexes": [
-            "montefiore.org",
-            "facebook.com/montefioremedicalcenter",
-            "twitter.com/montefiorenyc",
-            "youtube.com/user/MontefioreMedCenter",
-            "linkedin.com/company/montefiore-health-system",
-            "instagram.com/montefiorehealthsystem"
-        ]
-    },
-    "Mount Sinai Medical Center": {
-        "moreInfoUrl": "https://www.nysna.org/blog/2023/01/06/nyc-nurses-ready-strike#.Y73sUOzMJBY",
-        "matchingUrlRegexes": [
-            "msmc.com",
-            "facebook.com/mountsinaimedicalcenter",
-            "twitter.com/mountsinaimiami",
-            "youtube.com/c/MountSinaiMiamiBeach",
-            "instagram.com/mountsinaimedicalcenter"
-        ]
     }
 }
