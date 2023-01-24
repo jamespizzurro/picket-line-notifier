@@ -34,20 +34,6 @@
             "twitter.com/AlfredAlmondCS"
         ]
     },
-    "CNH Industrial": {
-        "moreInfoUrl": "https://www.facebook.com/uawlocal180/posts/438526018077449",
-        "matchingUrlRegexes": [
-            "cnhindustrial.com",
-            "facebook.com/CNHIndustrial",
-            "linkedin.com/company/cnh",
-            "twitter.com/cnhindustrial",
-            "youtube.com/user/TheCNHINDUSTRIAL",
-            "linkedin.com/company/cnh",
-            "glassdoor.com/Overview/Working-at-CNH-Industrial-EI_IE6538.11,25.htm",
-            "glassdoor.com/Reviews/CNH-Industrial-Reviews-E6538.htm",
-            "indeed.com/cmp/Cnh-Industrial"
-        ]
-    },
     "Sysco Food Services of Baltimore": {
         "moreInfoUrl": "https://www.teamsters355.com/",
         "matchingUrlRegexes": [
