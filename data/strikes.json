@@ -163,14 +163,6 @@
             "indeed.com/cmp/Tyson-Foods-Incorporated"
         ]
     },
-    "Ingredion": {
-        "moreInfoUrl": "https://www.kcrg.com/2022/08/01/workers-vote-strike-ingredion-cedar-rapids/",
-        "matchingUrlRegexes": [
-            "linkedin.com/company/ingredion-incorporated",
-            "twitter.com/Ingredion",
-            "instagram.com/ingredionus"
-        ]
-    },
     "CoreCivic - Central Arizona Florence Correctional Complex": {
         "moreInfoUrl": "https://www.facebook.com/ArizonaPipeTrades469/posts/pfbid02QTRqNa53ZFmsRBQnpc9JASav2Hd83pdX2uiPwpAycmrzo8gcEwoWYwcAmRDYQVtUl",
         "matchingUrlRegexes": [
