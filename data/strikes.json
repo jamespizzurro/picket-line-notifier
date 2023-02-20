@@ -215,16 +215,6 @@
             "instagram.com/fwphil"
         ]
     },
-    "HarperCollins": {
-        "moreInfoUrl": "https://www.facebook.com/profile.php?id=100063493332901",
-        "matchingUrlRegexes": [
-            "harpercollins.com",
-            "twitter.com/HarperCollins",
-            "facebook.com/HarperCollins",
-            "instagram.com/harpercollins",
-            "tiktok.com/@harpercollins"
-        ]
-    },
     "Wabtec": {
         "moreInfoUrl": "https://laborbeaconkc.com/ibew-local-1464-members-strike-over-misclassification-of-workers-and-for-fair-wages/",
         "matchingUrlRegexes": [
