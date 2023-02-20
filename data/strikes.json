@@ -119,21 +119,6 @@
             "youtube.com/user/TheGEOGroupInc"
         ]
     },
-    "Northeast Transportation Services - DHL": {
-        "moreInfoUrl": "https://www.facebook.com/teamsters251/posts/pfbid0Jm9anTsgq1TjLdTun389CSTr8oYngmrR4wvjVKYiFFq68mWWzG38TR6wZEb9mYwrl",
-        "matchingUrlRegexes": [
-            "dhl.com",
-            "youtube.com/user/dhl",
-            "facebook.com/dhl",
-            "linkedin.com/company/dhl",
-            "instagram.com/dhl_global",
-            "mydhl.express.dhl",
-            "facebook.com/DHLexpress",
-            "twitter.com/dhlus",
-            "instagram.com/dhlus",
-            "twitter.com/dhlexpress"
-        ]
-    },
     "Mesa Verde ICE Processing Center - The GEO Group": {
         "moreInfoUrl": "https://www.pangealegal.org/news-and-updates/2022/6/7/l4s5d0en0wgtkysr5cfqsc3w40773c",
         "matchingUrlRegexes": [
