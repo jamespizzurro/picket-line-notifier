@@ -1,10 +1,4 @@
 {
-    "Warrior Met Coal": {
-        "moreInfoUrl": "https://umwa.org/take-action/united-we-stand/",
-        "matchingUrlRegexes": [
-            "warriormetcoal.com"
-        ]
-    },
     "Exxon Mobil": {
         "moreInfoUrl": "https://usw13-243.org/",
         "matchingUrlRegexes": [
