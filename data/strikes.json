@@ -185,15 +185,6 @@
             "glassdoor.com/Overview/Working-at-College-of-the-Canyons-EI_IE129390.11,33.htm"
         ]
     },
-    "Fort Wayne Philharmonic": {
-        "moreInfoUrl": "https://www.wpta21.com/2022/12/08/fort-wayne-philharmonic-musicians-prepared-go-strike-amid-contract-negotiations/",
-        "matchingUrlRegexes": [
-            "fwphil.org",
-            "facebook.com/fortwaynephilharmonic",
-            "twitter.com/fwphil",
-            "instagram.com/fwphil"
-        ]
-    },
     "Wabtec": {
         "moreInfoUrl": "https://laborbeaconkc.com/ibew-local-1464-members-strike-over-misclassification-of-workers-and-for-fair-wages/",
         "matchingUrlRegexes": [
