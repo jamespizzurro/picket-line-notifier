@@ -195,11 +195,5 @@
             "twitter.com/WabtecCorp",
             "youtube.com/user/WabtecCorp"
         ]
-    },
-    "Insider": {
-        "moreInfoUrl": "https://twitter.com/InsiderUnion",
-        "matchingUrlRegexes": [
-            "insider.com"
-        ]
     }
 }
