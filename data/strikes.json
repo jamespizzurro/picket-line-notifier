@@ -52,16 +52,6 @@
             "salary.com/job/swissport-international-ltd/dtw-tank-farm-agent/5abedd10-ebbb-40e7-b566-976d6ac502d9"
         ]
     },
-    "GFL Environmental": {
-        "moreInfoUrl": "https://twitter.com/IUOELocal139",
-        "matchingUrlRegexes": [
-            "gflenv.com",
-            "facebook.com/gflcareers",
-            "linkedin.com/company/gflenvironmental",
-            "twitter.com/gflenv",
-            "youtube.com/channel/UC4j8cdyyHcZEXgSFX-jbD5g"
-        ]
-    },
     "McDonald's (2425 E 79th Street, Chicago, IL 60649)": {
         "moreInfoUrl": "https://twitter.com/chifightfor15",
         "matchingUrlRegexes": [
