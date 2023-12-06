@@ -32,7 +32,7 @@
             "linkedin.com/company/tyson-fresh-meats-inc.",
             "linkedin.com/company/tyson-fresh-meats-team",
             "linkedin.com/company/tyson-foods",
-            "instagram.com/tysonfoods/",
+            "instagram.com/tysonfoods",
             "instagram.com/tysonbrand",
             "glassdoor.com/Overview/Working-at-Tyson-EI_IE342.11,16.htm",
             "indeed.com/cmp/Tyson-Foods-Incorporated"
@@ -51,12 +51,11 @@
     "Elkhart Products Corporation": {
         "moreInfoUrl": "https://www.wvpe.org/2022-09-23/workers-strike-for-higher-wages-at-elkhart-piping-manufacturer",
         "matchingUrlRegexes": [
-            "https://www.elkhartproducts.com/about",
-            "https://aalberts-ips.com/",
-            "https://twitter.com/ElkhartProducts",
-            "https://www.facebook.com/pages/Elkhart-Products-Corporation/333693826731585",
-            "https://www.linkedin.com/company/elkhart-products-corporation/",
-            "https://mobile.twitter.com/elkhartproducts"
+            "elkhartproducts.com",
+            "aalberts-ips.com",
+            "twitter.com/ElkhartProducts",
+            "facebook.com/pages/Elkhart-Products-Corporation/333693826731585",
+            "linkedin.com/company/elkhart-products-corporation"
         ]
     },
     "Pittsburgh Post-Gazette - Block Communications": {
