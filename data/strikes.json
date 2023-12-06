@@ -1,6 +1,6 @@
 {
     "The Washington Post": {
-        ""moreInfoUrl": "https://docs.google.com/document/d/1LY2jViybLQPsgsm7hVo75V8aHNu5DUEZXB8vwc60YZo/edit",
+        "moreInfoUrl": "https://docs.google.com/document/d/1LY2jViybLQPsgsm7hVo75V8aHNu5DUEZXB8vwc60YZo/edit",
         "matchingUrlRegexes": [
             "washingtonpost.com",
             "https://www.facebook.com/washingtonpost",
