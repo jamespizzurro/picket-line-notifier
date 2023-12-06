@@ -71,13 +71,22 @@
     "Smart & Final - Chedraui": {
         "moreInfoUrl": "https://teamster.org/2023/11/teamsters-strike-chedraui-smart-final-over-unfair-labor-practices/",
         "matchingUrlRegexes": [
-            "smartandfinal.com"
+            "smartandfinal.com",
+            "facebook.com/SmartFinal",
+            "instagram.com/smartfinal/",
+            "pinterest.com/smartandfinal/",
+            "twitter.com/smartfinal",
+            "youtube.com/channel/UC12vghkrw5Ikx2O1ts2J-6A",
+            "youtube.com/@SmartFinal1"
         ]
     },
     "Homegrown": {
         "moreInfoUrl": "https://www.unitehere8.org/",
         "matchingUrlRegexes": [
-            "eathomegrown.com"
+            "eathomegrown.com",
+            "facebook.com/eathomegrown",
+            "twitter.com/eathomegrown",
+            "instagram.com/eathomegrown"
         ]
     },
     "Columbia College Chicago": {
@@ -85,8 +94,10 @@
         "matchingUrlRegexes": [
             "colum.edu",
             "linkedin.com/school/columbia-college-chicago",
-            "twitter.com/columbiachi",
-            "facebook.com/columbiacollegechicago"
+            "twitter.com/ColumbiaChi",
+            "facebook.com/columbiacollegechicago",
+            "instagram.com/columbiachi",
+            "youtube.com/user/ColumbiaCollegeChi"
         ]
     }
 }
