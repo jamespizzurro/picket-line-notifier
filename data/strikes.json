@@ -1,4 +1,12 @@
 {
+    "Elmwood Taco and Subs": {
+        "moreInfoUrl": "https://www.gofundme.com/f/ets-is-cutting-worker-hours-union-busting",
+        "matchingUrlRegexes": [
+            "theets.com",
+            "facebook.com/elmwoodtacoandsubs",
+            "instagram.com/elmwoodtaco1975"
+        ]
+    },
     "The Washington Post": {
         "moreInfoUrl": "https://docs.google.com/document/d/1LY2jViybLQPsgsm7hVo75V8aHNu5DUEZXB8vwc60YZo/edit",
         "matchingUrlRegexes": [
