@@ -7,16 +7,6 @@
             "instagram.com/elmwoodtaco1975"
         ]
     },
-    "The Washington Post": {
-        "moreInfoUrl": "https://docs.google.com/document/d/1LY2jViybLQPsgsm7hVo75V8aHNu5DUEZXB8vwc60YZo/edit",
-        "matchingUrlRegexes": [
-            "washingtonpost.com",
-            "https://www.facebook.com/washingtonpost",
-            "https://twitter.com/washingtonpost",
-            "https://bsky.app/profile/washingtonpost.com",
-            "https://www.instagram.com/washingtonpost"
-        ]
-    },
     "Golden State Annex - The GEO Group": {
         "moreInfoUrl": "https://www.pangealegal.org/news-and-updates/2022/6/17/1xum49tdcbnu3k29p9afa2vqc07ipd",
         "matchingUrlRegexes": [
