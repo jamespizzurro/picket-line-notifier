@@ -3,71 +3,79 @@ const STRIKES_CACHE_TIME = 60;  // in minutes
 const STRIKES_STORAGE_KEY = 'strikes';
 const STRIKES_TIMESTAMP_STORAGE_KEY = 'strikes-timestamp';
 
+const DEBUG_LOAD_STRIKES_LOCALLY = false;
+
 const loadStrikeData = async () => {
     let strikeData;
 
-    const strikesTimestamp = await new Promise(resolve => {
-        chrome.storage.local.get(STRIKES_TIMESTAMP_STORAGE_KEY, items => {
-            if (!items || !items[STRIKES_TIMESTAMP_STORAGE_KEY]) {
-                resolve(null);
-            } else {
-                resolve(items[STRIKES_TIMESTAMP_STORAGE_KEY]);
-            }
-        });
-    });
+    if (DEBUG_LOAD_STRIKES_LOCALLY) {
+        strikeData = JSON.parse(await (await fetch("data/strikes.json", {cache: 'no-cache'})).text());
 
-    if (strikesTimestamp && (Math.round((Date.now() - strikesTimestamp) / 1000 / 60) <= STRIKES_CACHE_TIME)) {
-        // data from app cache is still fresh,
-        // so fetch it without subsequently updating it
-
-        strikeData = await new Promise(resolve => {
-            chrome.storage.local.get(STRIKES_STORAGE_KEY, items => {
-                if (!items || !items[STRIKES_STORAGE_KEY]) {
-                    console.error(`No strike data in app cache, but strike timestamp is present: ${strikesTimestamp}`);
+        console.debug("Loaded strike data locally", strikeData);
+    } else {
+        const strikesTimestamp = await new Promise(resolve => {
+            chrome.storage.local.get(STRIKES_TIMESTAMP_STORAGE_KEY, items => {
+                if (!items || !items[STRIKES_TIMESTAMP_STORAGE_KEY]) {
                     resolve(null);
                 } else {
-                    resolve(items[STRIKES_STORAGE_KEY]);
+                    resolve(items[STRIKES_TIMESTAMP_STORAGE_KEY]);
                 }
             });
         });
 
-        console.debug(`Loaded strike data from app cache; it's ~${Math.round((Date.now() - strikesTimestamp) / 1000 / 60)} minute(s) old`);
-    } else {
-        // there's nothing in the app cache or what's in there is stale,
-        // so make a network request to get fresher data
+        if (strikesTimestamp && (Math.round((Date.now() - strikesTimestamp) / 1000 / 60) <= STRIKES_CACHE_TIME)) {
+            // data from app cache is still fresh,
+            // so fetch it without subsequently updating it
 
-        try {
-            strikeData = JSON.parse(await (await fetch("https://raw.githubusercontent.com/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
-        } catch (e) {
-            console.warn("Failed to fetch strike data from raw.githubusercontent.com! Falling back to using GitCDN...", e);
+            strikeData = await new Promise(resolve => {
+                chrome.storage.local.get(STRIKES_STORAGE_KEY, items => {
+                    if (!items || !items[STRIKES_STORAGE_KEY]) {
+                        console.error(`No strike data in app cache, but strike timestamp is present: ${strikesTimestamp}`);
+                        resolve(null);
+                    } else {
+                        resolve(items[STRIKES_STORAGE_KEY]);
+                    }
+                });
+            });
+
+            console.debug(`Loaded strike data from app cache; it's ~${Math.round((Date.now() - strikesTimestamp) / 1000 / 60)} minute(s) old`, strikeData);
+        } else {
+            // there's nothing in the app cache or what's in there is stale,
+            // so make a network request to get fresher data
 
             try {
-                strikeData = JSON.parse(await (await fetch("https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
+                strikeData = JSON.parse(await (await fetch("https://raw.githubusercontent.com/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
             } catch (e) {
-                console.warn("Failed to fetch strike data from GitCDN! Falling back to using jsDelivr...", e);
-                
+                console.warn("Failed to fetch strike data from raw.githubusercontent.com! Falling back to using GitCDN...", e);
+
                 try {
-                    strikeData = JSON.parse(await (await fetch("https://cdn.jsdelivr.net/gh/jamespizzurro/picket-line-notifier@main/data/strikes.json", {cache: 'no-cache'})).text());
+                    strikeData = JSON.parse(await (await fetch("https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
                 } catch (e) {
-                    console.error("Failed to fetch strike data from jsDelivr!", e);
+                    console.warn("Failed to fetch strike data from GitCDN! Falling back to using jsDelivr...", e);
+
+                    try {
+                        strikeData = JSON.parse(await (await fetch("https://cdn.jsdelivr.net/gh/jamespizzurro/picket-line-notifier@main/data/strikes.json", {cache: 'no-cache'})).text());
+                    } catch (e) {
+                        console.error("Failed to fetch strike data from jsDelivr!", e);
+                    }
                 }
             }
-        }
 
-        console.debug("Loaded strike data from HTTP cache or network");
+            console.debug("Loaded strike data from network", strikeData);
 
-        // update app cache with fresher data
-        await new Promise(resolve => {
-            const data = {};
-            data[STRIKES_TIMESTAMP_STORAGE_KEY] = Date.now();
-            data[STRIKES_STORAGE_KEY] = strikeData;
+            // update app cache with fresher data
+            await new Promise(resolve => {
+                const data = {};
+                data[STRIKES_TIMESTAMP_STORAGE_KEY] = Date.now();
+                data[STRIKES_STORAGE_KEY] = strikeData;
 
-            chrome.storage.local.set(data, () => {
-                resolve();
+                chrome.storage.local.set(data, () => {
+                    resolve();
+                });
+
+                console.debug("App cache updated", data);
             });
-        });
-
-        console.debug("App cache updated");
+        }
     }
 
     return strikeData;
@@ -112,8 +120,25 @@ const checkTab = async (tabId, windowId) => {
             return;
         }
 
+        const currentDate = new Date();
         const strikesByOrgName = await loadStrikeData();
         for (const [orgName, strike] of Object.entries(strikesByOrgName)) {
+            if (strike.startTime) {
+                const startTimeDate = Date.parse(strike.startTime);
+                if (currentDate < startTimeDate) {
+                    // bail; start time hasn't occurred yet
+                    continue;
+                }
+            }
+
+            if (strike.endTime) {
+                const endTimeDate = Date.parse(strike.endTime);
+                if (endTimeDate <= currentDate) {
+                    // bail; end time has already occurred or is occurring
+                    continue;
+                }
+            }
+
             const matchingRegex = strike.matchingUrlRegexes.find(rx => (new RegExp(rx, 'i')).test(tabUrl));
             if (matchingRegex) {
                 console.debug(`URL of Tab ${tabId} of Window ${windowId} matches regex ${new RegExp(matchingRegex, 'i')} for ${orgName}`);
@@ -127,7 +152,7 @@ const checkTab = async (tabId, windowId) => {
                 });
 
                 createNotification(orgName, tabId, windowId);
-                
+
                 break;
             }
         }
@@ -175,6 +200,6 @@ chrome.notifications.onClicked.addListener(async notificationId => {
     chrome.tabs.create({
         url: strike.moreInfoUrl
     }, tab => {
-        console.debug(`Notification '${notificationId}': created new tab for ${orgName} to ${strike.moreInfoUrl}`);
+        console.debug(`Notification '${notificationId}': created new tab (Tab ${tab.id}) for ${orgName} to ${strike.moreInfoUrl}`);
     });
 });

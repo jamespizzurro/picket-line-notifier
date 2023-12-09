@@ -16,10 +16,27 @@ const loadStrikeData = () => {
 };
 
 (async () => {
+    const currentDate = new Date();
     const strikesByOrgName = await loadStrikeData();
 
     const strikeList = document.getElementById('strike-list');
     for (const [orgName, strike] of Object.entries(strikesByOrgName).sort((a, b) => a[0].toUpperCase().localeCompare(b[0].toUpperCase()))) {
+        if (strike.startTime) {
+            const startTimeDate = Date.parse(strike.startTime);
+            if (currentDate < startTimeDate) {
+                // bail; start time hasn't occurred yet
+                continue;
+            }
+        }
+
+        if (strike.endTime) {
+            const endTimeDate = Date.parse(strike.endTime);
+            if (endTimeDate <= currentDate) {
+                // bail; end time has already occurred or is occurring
+                continue;
+            }
+        }
+
         const strikeListItemLinkText = document.createTextNode(orgName);
 
         const strikeListItemLink = document.createElement('a');
