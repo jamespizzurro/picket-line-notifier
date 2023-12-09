@@ -36,12 +36,6 @@ This browser extension is not yet available from [Opera's Extensions page](hhttp
 3. Launch your web browser and go to its Extensions page (<a href="chrome://extensions">chrome://extensions</a> in Chrome; <a href="edge://extensions">edge://extensions</a> in Edge; <a href="opera://extensions">opera://extensions</a> in Opera). Enable 'Developer Mode' from there.
 4. Drag the `picket-line-notifier-main` directory anywhere on the Extensions page to install it. Remember: don't delete the `picket-line-notifier-main` directory unless you want to uninstall the extension.
 
-#### Mozilla Firefox
-
-1. Download [the latest XPI file from GitHub](https://github.com/jamespizzurro/picket-line-notifier/raw/main/web-ext-artifacts/picket_line_notifier-1.1.1-an+fx.xpi) in the `web-ext-artifacts` directory of this repository.
-2. Launch Firefox, go to Settings > Extensions & Themes > Extensions (<a href="about:addons">about:addons</a>), click the button with a gear icon, and choose 'Install Add-on From File...' from the menu that appears. Find the XPI file you just downloaded from the file chooser dialog that appears, select it and continue.
-3. Optional: delete the XPI file you downloaded; it's no longer necessary.
-
 ## FAQ
 
 ### The browser extension hasn't been updated in a while. Is it still being worked on?
