@@ -1,4 +1,13 @@
 {
+    "Fulton Street Coffee": {
+        "moreInfoUrl": "https://www.gofundme.com/f/better-cooperative-mutual-aid-fund",
+        "matchingUrlRegexes": [
+            "fultonstreetcoffee.com",
+            "instagram.com/fultonstreetcoffee",
+            "twitter.com/fultonstcoffee",
+            "facebook.com/FultonStreetCoffee"
+        ]
+    },
     "DHL Express": {
         "moreInfoUrl": "http://www.teamsterslocal100.com/?zone=/unionactive/view_page.cfm&page=DHL2DCVG",
         "matchingUrlRegexes": [
