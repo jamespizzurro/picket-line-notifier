@@ -1,4 +1,15 @@
 {
+    "Prime Healthcare": {
+        "moreInfoUrl": "https://www.seiu-uhw.org/press/healthcare-workers-at-four-prime-hospitals-to-strike-days-before-christmas/",
+        "matchingUrlRegexes": [
+            "primehealthcare.com",
+            "facebook.com/primehealthcare",
+            "twitter.com/_primehealth",
+            "youtube.com/user/primehealthcares",
+            "instagram.com/prime_healthcare",
+            "linkedin.com/company/prime-healthcare"
+        ]
+    },
     "Fulton Street Coffee": {
         "moreInfoUrl": "https://www.gofundme.com/f/better-cooperative-mutual-aid-fund",
         "matchingUrlRegexes": [
