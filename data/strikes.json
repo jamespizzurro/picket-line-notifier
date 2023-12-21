@@ -127,16 +127,5 @@
             "twitter.com/eathomegrown",
             "instagram.com/eathomegrown"
         ]
-    },
-    "Columbia College Chicago": {
-        "moreInfoUrl": "https://www.cfacresources.com/",
-        "matchingUrlRegexes": [
-            "colum.edu",
-            "linkedin.com/school/columbia-college-chicago",
-            "twitter.com/ColumbiaChi",
-            "facebook.com/columbiacollegechicago",
-            "instagram.com/columbiachi",
-            "youtube.com/user/ColumbiaCollegeChi"
-        ]
     }
 }
