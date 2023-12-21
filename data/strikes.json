@@ -1,4 +1,15 @@
 {
+    "Valley Ford Truck": {
+        "moreInfoUrl": "https://www.facebook.com/IAMLL1363",
+        "matchingUrlRegexes": [
+            "valleyfordtruckinc.com",
+            "facebook.com/valleyfordtruck1",
+            "twitter.com/ValleyFordSales",
+            "valleytruckcenters.net",
+            "twitter.com/CleValleyTruck",
+            "linkedin.com/company/valley-ford-truck-inc"
+        ]
+    },
     "Prime Healthcare": {
         "moreInfoUrl": "https://www.seiu-uhw.org/press/healthcare-workers-at-four-prime-hospitals-to-strike-days-before-christmas/",
         "matchingUrlRegexes": [
