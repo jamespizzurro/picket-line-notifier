@@ -19,16 +19,6 @@
             "facebook.com/FultonStreetCoffee"
         ]
     },
-    "DHL Express": {
-        "moreInfoUrl": "http://www.teamsterslocal100.com/?zone=/unionactive/view_page.cfm&page=DHL2DCVG",
-        "matchingUrlRegexes": [
-            "dhl.com/us-en/home/express.html",
-            "facebook.com/DHLexpress",
-            "twitter.com/dhlexpress",
-            "linkedin.com/company/dhlexpress",
-            "instagram.com/dhlexpress"
-        ]
-    },
     "Elmwood Taco and Subs": {
         "moreInfoUrl": "https://www.gofundme.com/f/ets-is-cutting-worker-hours-union-busting",
         "matchingUrlRegexes": [
