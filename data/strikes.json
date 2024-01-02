@@ -1,10 +1,4 @@
 {
-    "Cub Foods": {
-        "moreInfoUrl": "https://www.brainerddispatch.com/news/local/brainerd-lakes-area-grocery-workers-go-on-strike",
-        "matchingUrlRegexes": [
-            "cub.com"
-        ]
-    },
     "Valley Ford Truck": {
         "moreInfoUrl": "https://www.facebook.com/IAMLL1363",
         "matchingUrlRegexes": [
