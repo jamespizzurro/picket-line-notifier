@@ -1,4 +1,17 @@
 {
+    "US Foods": {
+        "moreInfoUrl": "https://www.facebook.com/teamsterslocal705/posts/pfbid02bYR893UZy2CgQAjMa7P7SUWXMUktacdmNyeRtxCGioQ2sQenavhttSsayexJWNqPl",
+        "matchingUrlRegexes": [
+            "usfoods.com",
+            "facebook.com/usfoods",
+            "instagram.com/us_foods",
+            "twitter.com/usfoods",
+            "linkedin.com/company/usfoods",
+            "youtube.com/channel/UCOzFkZMsCmTiUvmAR6PFY1w",
+            "youtube.com/@usfoods",
+            "pinterest.com/us_foods"
+        ]
+    },
     "Valley Ford Truck": {
         "moreInfoUrl": "https://www.facebook.com/IAMLL1363",
         "matchingUrlRegexes": [
