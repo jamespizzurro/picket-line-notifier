@@ -1,4 +1,16 @@
 {
+    "City World Ford": {
+        "moreInfoUrl": "https://twitter.com/Soto4NY/status/1743017018104672420",
+        "matchingUrlRegexes": [
+            "cityworldford.net",
+            "youtube.com/channel/UCA9jjS6sU40_whEpNvQtL3Q",
+            "youtube.com/@cityworldfordbronx",
+            "facebook.com/cityworldfordbronx",
+            "linkedin.com/company/city-world-ford",
+            "twitter.com/cityworldford_",
+            "instagram.com/cityworldford_"
+        ]
+    },
     "US Foods": {
         "moreInfoUrl": "https://www.facebook.com/teamsterslocal705/posts/pfbid02bYR893UZy2CgQAjMa7P7SUWXMUktacdmNyeRtxCGioQ2sQenavhttSsayexJWNqPl",
         "matchingUrlRegexes": [
