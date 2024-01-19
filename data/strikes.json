@@ -1,4 +1,15 @@
 {
+    "LA Times": {
+        "moreInfoUrl": "https://docs.google.com/document/d/1gJr8Ce77HUT6dGCHx3Naazmy0Sz660W0iwkHRKfRrDk/edit?usp=sharing",
+        "matchingUrlRegexes": [
+            "latimes.com",
+            "twitter.com/latimes",
+            "instagram.com/latimes/",
+            "youtube.com/losangelestimes",
+            "facebook.com/latimes"
+        ],
+        "endTime": "2024-01-20T00:00:00.000-05:00"
+    },
     "City World Ford": {
         "moreInfoUrl": "https://twitter.com/Soto4NY/status/1743017018104672420",
         "matchingUrlRegexes": [
