@@ -119,14 +119,5 @@
             "youtube.com/channel/UC12vghkrw5Ikx2O1ts2J-6A",
             "youtube.com/@SmartFinal1"
         ]
-    },
-    "Homegrown": {
-        "moreInfoUrl": "https://www.unitehere8.org/",
-        "matchingUrlRegexes": [
-            "eathomegrown.com",
-            "facebook.com/eathomegrown",
-            "twitter.com/eathomegrown",
-            "instagram.com/eathomegrown"
-        ]
     }
 }
