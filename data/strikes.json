@@ -107,17 +107,5 @@
             "instagram.com/pittsburghpg",
             "blockcommunications.com"
         ]
-    },
-    "Smart & Final - Chedraui": {
-        "moreInfoUrl": "https://teamster.org/2023/11/teamsters-strike-chedraui-smart-final-over-unfair-labor-practices/",
-        "matchingUrlRegexes": [
-            "smartandfinal.com",
-            "facebook.com/SmartFinal",
-            "instagram.com/smartfinal/",
-            "pinterest.com/smartandfinal/",
-            "twitter.com/smartfinal",
-            "youtube.com/channel/UC12vghkrw5Ikx2O1ts2J-6A",
-            "youtube.com/@SmartFinal1"
-        ]
     }
 }
