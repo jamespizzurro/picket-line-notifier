@@ -11,17 +11,6 @@
             "instagram.com/cityworldford_"
         ]
     },
-    "Valley Ford Truck": {
-        "moreInfoUrl": "https://www.facebook.com/IAMLL1363",
-        "matchingUrlRegexes": [
-            "valleyfordtruckinc.com",
-            "facebook.com/valleyfordtruck1",
-            "twitter.com/ValleyFordSales",
-            "valleytruckcenters.net",
-            "twitter.com/CleValleyTruck",
-            "linkedin.com/company/valley-ford-truck-inc"
-        ]
-    },
     "Elmwood Taco and Subs": {
         "moreInfoUrl": "https://www.gofundme.com/f/ets-is-cutting-worker-hours-union-busting",
         "matchingUrlRegexes": [
