@@ -119,6 +119,17 @@
             "youtube.com/user/hyatt"
         ]
     },
+    "Omni Hotels": {
+        "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
+        "matchingUrlRegexes": [
+            "omnihotels.com",
+            "facebook.com/omnihotels",
+            "instagram.com/omnihotels",
+            "tiktok.com/@omnihotels",
+            "pinterest.com/omnihotels",
+            "youtube.com/omnihotels"
+        ]
+    },
     "AT&T": {
         "moreInfoUrl": "https://cwa-union.org/news/labor-day-we-are-not-going-back",
         "matchingUrlRegexes": [
