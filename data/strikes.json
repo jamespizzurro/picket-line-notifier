@@ -94,7 +94,7 @@
             "marriot.com",
             "facebook.com/marriottbonvoy",
             "x.com/marriottbonvoy",
-            "instagram.com/marriottbonvoy/",
+            "instagram.com/marriottbonvoy",
             "linkedin.com/company/marriott-international",
             "youtube.com/marriott"
         ]
@@ -103,9 +103,9 @@
         "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
         "matchingUrlRegexes": [
             "hilton.com",
-            "facebook.com/hiltonnewsroom/",
+            "facebook.com/hiltonnewsroom",
             "x.com/hiltonnewsroom",
-            "instagram.com/hiltonnewsroom/"
+            "instagram.com/hiltonnewsroom"
         ]
     },
     "Hyatt Hotels": {
@@ -113,7 +113,7 @@
         "matchingUrlRegexes": [
             "hyaatt.com",
             "facebook.com/hyatt",
-            "instagram.com/hyatt/",
+            "instagram.com/hyatt",
             "x.com/Hyatt",
             "linkedin.com/company/hyatt",
             "youtube.com/user/hyatt"
@@ -135,9 +135,99 @@
         "matchingUrlRegexes": [
             "att.com",
             "facebook.com/att",
-            "instagram.com/att/",
+            "instagram.com/att",
             "x.com/att",
             "linkedin.com/company/att"
+        ]
+    },
+    "Ecology Curbside Services": {
+        "moreInfoUrl": "https://teamster.org/2024/09/ecology-services-teamsters-forced-on-strike/",
+        "matchingUrlRegexes": [
+            "ecologyservices.com"
+        ]
+    },
+    "MV Transportation": {
+        "moreInfoUrl": "https://www.wapt.com/article/local-transportation-union-goes-on-strike-for-unfair-treatment-could-affect-jtran-riders/62053019",
+        "matchingUrlRegexes": [
+            "mvtransit.com",
+            "twitter.com/realMVTransit",
+            "facebook.com/Mvtransit",
+            "linkedin.com/company/mv-transportation"
+        ]
+    },
+    "University of Buffalo": {
+        "moreInfoUrl": "https://www.wkbw.com/news/local-news/buffalo/you-should-be-appreciated-and-not-hazed-ub-resident-physicians-go-on-strike-demanding-change",
+        "matchingUrlRegexes": [
+            "buffalo.edu",
+            "facebook.com/universityatbuffalo",
+            "instagram.com/universityatbuffalo",
+            "linkedin.com/company/6502",
+            "tiktok.com/@ubuffalo",
+            "x.com/ubuffalo",
+            "youtube.com/@ubuffalo"
+        ]
+    },
+    "Marathon Petroleum": {
+        "moreInfoUrl": "https://www.detroitnews.com/story/news/local/wayne-county/2024/09/04/marathons-detroit-refinery-workers-on-strike/75067300007/",
+        "matchingUrlRegexes": [
+            "marathonpetroleum.com/",
+            "facebook.com/MarathonPetroleumCorporation",
+            "x.com/MarathonPetroCo",
+            "linkedin.com/company/marathon-petroleum-company",
+            "instagram.com/marathonpetroleum",
+            "youtube.com/channel/UC2VMk_st5c0dOZiLzCPhv2g"
+        ]
+    },
+    "Uber": {
+        "moreInfoUrl": "https://www.theguardian.com/us-news/article/2024/aug/30/uber-lyft-drivers-union-strike-nashville",
+        "matchingUrlRegexes": [
+            "uber.com",
+            "facebook.com/uber",
+            "twitter.com/uber",
+            "youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA",
+            "linkedin.com/company/1815218",
+            "instagram.com/uber"
+        ]
+    },
+    "Lyft": {
+        "moreInfoUrl": "https://www.theguardian.com/us-news/article/2024/aug/30/uber-lyft-drivers-union-strike-nashville",
+        "matchingUrlRegexes": [
+            "lyft.com",
+            "twitter.com/lyft",
+            "facebook.com/lyft",
+            "instagram.com/lyft"
+        ]
+    },
+    "Fred Meyer": {
+        "moreInfoUrl": "https://progressivegrocer.com/fred-meyer-associates-portland-area-go-strike",
+        "matchingUrlRegexes": [
+            "fredmeyer.com",
+            "x.com/fred_meyer",
+            "facebook.com/Kroger",
+            "youtube.com/user/FredMeyerSocial",
+            "pinterest.com/fred_meyer"
+        ]
+    },
+    "Kroger": {
+        "moreInfoUrl": "https://progressivegrocer.com/fred-meyer-associates-portland-area-go-strike",
+        "matchingUrlRegexes": [
+            "kroger.com",
+            "x.com/Kroger",
+            "facebook.com/Kroger",
+            "youtube.com/kroger",
+            "pinterest.com/krogerco",
+            "instagram.com/krogerco"
+        ]
+    },
+    "Hometown Disposal": {
+        "moreInfoUrl": "https://www.dailyitem.com/news/14-hometown-disposal-employees-on-strike/article_7a7ec03e-6403-11ef-8d75-bf4cb7f23b0a.html",
+        "matchingUrlRegexes": [
+            "hometowndisposalonline.com",
+            "facebook.com/HometownHauls",
+            "m.me/hometownhauls",
+            "twitter.com/hometownhauls",
+            "instagram.com/hometowndisposal",
+            "linkedin.com/company/hometown-disposal"
         ]
     }
 }
