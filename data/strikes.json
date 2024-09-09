@@ -198,27 +198,6 @@
             "instagram.com/lyft"
         ]
     },
-    "Fred Meyer": {
-        "moreInfoUrl": "https://progressivegrocer.com/fred-meyer-associates-portland-area-go-strike",
-        "matchingUrlRegexes": [
-            "fredmeyer.com",
-            "x.com/fred_meyer",
-            "facebook.com/Kroger",
-            "youtube.com/user/FredMeyerSocial",
-            "pinterest.com/fred_meyer"
-        ]
-    },
-    "Kroger": {
-        "moreInfoUrl": "https://progressivegrocer.com/fred-meyer-associates-portland-area-go-strike",
-        "matchingUrlRegexes": [
-            "kroger.com",
-            "x.com/Kroger",
-            "facebook.com/Kroger",
-            "youtube.com/kroger",
-            "pinterest.com/krogerco",
-            "instagram.com/krogerco"
-        ]
-    },
     "Hometown Disposal": {
         "moreInfoUrl": "https://www.dailyitem.com/news/14-hometown-disposal-employees-on-strike/article_7a7ec03e-6403-11ef-8d75-bf4cb7f23b0a.html",
         "matchingUrlRegexes": [
