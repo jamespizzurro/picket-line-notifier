@@ -235,7 +235,7 @@
     "Eaton Aerospace": {
         "moreInfoUrl": "https://uaw.org/over-500-uaw-members-go-on-strike-at-eaton-aerospace-plant-in-jackson/",
         "matchingUrlRegexes": [
-            "eaton.com",
+            "\\.eaton.com",
             "linkedin.com/company/eaton",
             "facebook.com/eatoncorporation",
             "instagram.com/eaton_corp",
