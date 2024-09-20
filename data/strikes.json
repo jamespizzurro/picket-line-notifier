@@ -130,16 +130,6 @@
             "youtube.com/omnihotels"
         ]
     },
-    "AT&T": {
-        "moreInfoUrl": "https://cwa-union.org/news/labor-day-we-are-not-going-back",
-        "matchingUrlRegexes": [
-            "att.com",
-            "facebook.com/att",
-            "instagram.com/att",
-            "x.com/att",
-            "linkedin.com/company/att"
-        ]
-    },
     "Ecology Curbside Services": {
         "moreInfoUrl": "https://teamster.org/2024/09/ecology-services-teamsters-forced-on-strike/",
         "matchingUrlRegexes": [
