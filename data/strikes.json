@@ -199,15 +199,6 @@
             "linkedin.com/company/hometown-disposal"
         ]
     },
-    "Law 360": {
-        "moreInfoUrl": "https://cwa-union.org/news/strike-law360-union-walks-out-after-workforce-decimation",
-        "matchingUrlRegexes": [
-            "law360.com",
-            "twitter.com/law360",
-            "facebook.com/law360",
-            "linkedin.com/company/law360"
-        ]
-    },
     "Boeing": {
         "moreInfoUrl": "https://www.wsj.com/business/boeing-strike-union-workers-walk-off-af5703df",
         "matchingUrlRegexes": [
