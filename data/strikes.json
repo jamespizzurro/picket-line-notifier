@@ -136,15 +136,6 @@
             "ecologyservices.com"
         ]
     },
-    "MV Transportation": {
-        "moreInfoUrl": "https://www.wapt.com/article/local-transportation-union-goes-on-strike-for-unfair-treatment-could-affect-jtran-riders/62053019",
-        "matchingUrlRegexes": [
-            "mvtransit.com",
-            "twitter.com/realMVTransit",
-            "facebook.com/Mvtransit",
-            "linkedin.com/company/mv-transportation"
-        ]
-    },
     "Marathon Petroleum": {
         "moreInfoUrl": "https://www.detroitnews.com/story/news/local/wayne-county/2024/09/04/marathons-detroit-refinery-workers-on-strike/75067300007/",
         "matchingUrlRegexes": [
