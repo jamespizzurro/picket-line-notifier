@@ -145,18 +145,6 @@
             "linkedin.com/company/mv-transportation"
         ]
     },
-    "University of Buffalo": {
-        "moreInfoUrl": "https://www.wkbw.com/news/local-news/buffalo/you-should-be-appreciated-and-not-hazed-ub-resident-physicians-go-on-strike-demanding-change",
-        "matchingUrlRegexes": [
-            "buffalo.edu",
-            "facebook.com/universityatbuffalo",
-            "instagram.com/universityatbuffalo",
-            "linkedin.com/company/6502",
-            "tiktok.com/@ubuffalo",
-            "x.com/ubuffalo",
-            "youtube.com/@ubuffalo"
-        ]
-    },
     "Marathon Petroleum": {
         "moreInfoUrl": "https://www.detroitnews.com/story/news/local/wayne-county/2024/09/04/marathons-detroit-refinery-workers-on-strike/75067300007/",
         "matchingUrlRegexes": [
