@@ -147,26 +147,6 @@
             "youtube.com/channel/UC2VMk_st5c0dOZiLzCPhv2g"
         ]
     },
-    "Uber": {
-        "moreInfoUrl": "https://www.theguardian.com/us-news/article/2024/aug/30/uber-lyft-drivers-union-strike-nashville",
-        "matchingUrlRegexes": [
-            "uber.com",
-            "facebook.com/uber",
-            "twitter.com/uber",
-            "youtube.com/channel/UCgnxoUwDmmyzeigmmcf0hZA",
-            "linkedin.com/company/1815218",
-            "instagram.com/uber"
-        ]
-    },
-    "Lyft": {
-        "moreInfoUrl": "https://www.theguardian.com/us-news/article/2024/aug/30/uber-lyft-drivers-union-strike-nashville",
-        "matchingUrlRegexes": [
-            "lyft.com",
-            "twitter.com/lyft",
-            "facebook.com/lyft",
-            "instagram.com/lyft"
-        ]
-    },
     "Hometown Disposal": {
         "moreInfoUrl": "https://www.dailyitem.com/news/14-hometown-disposal-employees-on-strike/article_7a7ec03e-6403-11ef-8d75-bf4cb7f23b0a.html",
         "matchingUrlRegexes": [
