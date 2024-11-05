@@ -182,5 +182,17 @@
             "youtube.com/EatonVideos",
             "twitter.com/eatoncorp"
         ]
+    },
+    "The New York Times": {
+        "moreInfoUrl": "https://nytimesguild.org/tech-contract-campaign/",
+        "matchingUrlRegexes": [
+            "nytimes.com",
+            "facebook.com/nytimes",
+            "x.com/nytimes",
+            "instagram.com/nytimes",
+            "tiktok.com/@nytimes",
+            "linkedin.com/company/the-new-york-times",
+            "youtube.com/@nytimes"
+        ]
     }
 }
