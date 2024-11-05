@@ -158,20 +158,6 @@
             "linkedin.com/company/hometown-disposal"
         ]
     },
-    "Boeing": {
-        "moreInfoUrl": "https://www.wsj.com/business/boeing-strike-union-workers-walk-off-af5703df",
-        "matchingUrlRegexes": [
-            "boeing.com",
-            "facebook.com/Boeing",
-            "facebook.com/BoeingCareers",
-            "instagram.com/boeing",
-            "twitter.com/Boeing",
-            "twitter.com/BoeingAirplanes",
-            "twitter.com/BoeingDefense",
-            "twitter.com/BoeingSpace",
-            "youtube.com/user/boeing"
-        ]
-    },
     "Eaton Aerospace": {
         "moreInfoUrl": "https://uaw.org/over-500-uaw-members-go-on-strike-at-eaton-aerospace-plant-in-jackson/",
         "matchingUrlRegexes": [
