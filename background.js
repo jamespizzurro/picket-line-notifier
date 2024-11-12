@@ -46,18 +46,12 @@ const loadStrikeData = async () => {
             try {
                 strikeData = JSON.parse(await (await fetch("https://raw.githubusercontent.com/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
             } catch (e) {
-                console.warn("Failed to fetch strike data from raw.githubusercontent.com! Falling back to using GitCDN...", e);
+                console.warn("Failed to fetch strike data from raw.githubusercontent.com! Falling back to using jsDelivr...", e);
 
                 try {
-                    strikeData = JSON.parse(await (await fetch("https://gitcdn.link/cdn/jamespizzurro/picket-line-notifier/main/data/strikes.json", {cache: 'no-cache'})).text());
+                    strikeData = JSON.parse(await (await fetch("https://cdn.jsdelivr.net/gh/jamespizzurro/picket-line-notifier@main/data/strikes.json", {cache: 'no-cache'})).text());
                 } catch (e) {
-                    console.warn("Failed to fetch strike data from GitCDN! Falling back to using jsDelivr...", e);
-
-                    try {
-                        strikeData = JSON.parse(await (await fetch("https://cdn.jsdelivr.net/gh/jamespizzurro/picket-line-notifier@main/data/strikes.json", {cache: 'no-cache'})).text());
-                    } catch (e) {
-                        console.error("Failed to fetch strike data from jsDelivr!", e);
-                    }
+                    console.error("Failed to fetch strike data from jsDelivr!", e);
                 }
             }
 
