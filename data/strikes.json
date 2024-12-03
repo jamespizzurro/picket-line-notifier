@@ -130,12 +130,6 @@
             "youtube.com/omnihotels"
         ]
     },
-    "Ecology Curbside Services": {
-        "moreInfoUrl": "https://teamster.org/2024/09/ecology-services-teamsters-forced-on-strike/",
-        "matchingUrlRegexes": [
-            "ecologyservices.com"
-        ]
-    },
     "Marathon Petroleum": {
         "moreInfoUrl": "https://www.detroitnews.com/story/news/local/wayne-county/2024/09/04/marathons-detroit-refinery-workers-on-strike/75067300007/",
         "matchingUrlRegexes": [
