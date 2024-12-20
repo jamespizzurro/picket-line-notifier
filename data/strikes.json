@@ -1,4 +1,43 @@
 {
+    "Amazon": {
+        "moreInfoUrl": "https://teamster.org/2024/12/teamsters-launch-largest-strike-against-amazon-in-american-history/",
+        "matchingUrlRegexes": [
+            "amazon.com"
+        ]
+    },
+    "Essentia Health": {
+        "moreInfoUrl": "https://lptv.org/health-care-workers-at-essentia-health-deer-river-start-open-ended-strike/",
+        "matchingUrlRegexes": [
+            "essentiahealth.org"
+        ]
+    },
+    "Faurecia Auto Parts": {
+        "moreInfoUrl": "https://www.missourinet.com/2024/12/04/uaw-workers-hit-the-picket-line-at-the-faurecia-auto-parts-factory-in-dexter/",
+        "matchingUrlRegexes": [
+            "faurecia-us.com"
+        ]
+    },
+    "REI": {
+        "moreInfoUrl": "https://nysaflcio.org/new-york-city-central-labor-council/news/take-action-rei-soho-ski-shop-workers-remain-ulp-strike",
+        "matchingUrlRegexes": [
+            "rei.com"
+        ]
+    },
+    "i-Health of Enfield": {
+        "moreInfoUrl": "https://www.teamsters671.com/news-details/news/local-news-updates/22773/95914",
+        "matchingUrlRegexes": [
+            "dsmihealth.com",
+            "culturelle.com",
+            "estroven.com",
+            "azoproducts.com",
+            "up4products.com",
+            "ovega.com",
+            "holigos.com",
+            "brainstrongmemeory.com",
+            "lifesdha.com",
+            "lacteolproducts.com"
+        ]
+    },
     "City World Ford": {
         "moreInfoUrl": "https://twitter.com/Soto4NY/status/1743017018104672420",
         "matchingUrlRegexes": [
@@ -128,17 +167,6 @@
             "tiktok.com/@omnihotels",
             "pinterest.com/omnihotels",
             "youtube.com/omnihotels"
-        ]
-    },
-    "Marathon Petroleum": {
-        "moreInfoUrl": "https://www.detroitnews.com/story/news/local/wayne-county/2024/09/04/marathons-detroit-refinery-workers-on-strike/75067300007/",
-        "matchingUrlRegexes": [
-            "marathonpetroleum.com/",
-            "facebook.com/MarathonPetroleumCorporation",
-            "x.com/MarathonPetroCo",
-            "linkedin.com/company/marathon-petroleum-company",
-            "instagram.com/marathonpetroleum",
-            "youtube.com/channel/UC2VMk_st5c0dOZiLzCPhv2g"
         ]
     },
     "Hometown Disposal": {
