@@ -32,18 +32,6 @@
             "lacteolproducts.com"
         ]
     },
-    "City World Ford": {
-        "moreInfoUrl": "https://twitter.com/Soto4NY/status/1743017018104672420",
-        "matchingUrlRegexes": [
-            "cityworldford.net",
-            "youtube.com/channel/UCA9jjS6sU40_whEpNvQtL3Q",
-            "youtube.com/@cityworldfordbronx",
-            "facebook.com/cityworldfordbronx",
-            "linkedin.com/company/city-world-ford",
-            "twitter.com/cityworldford_",
-            "instagram.com/cityworldford_"
-        ]
-    },
     "Elmwood Taco and Subs": {
         "moreInfoUrl": "https://www.boycottets.com/",
         "matchingUrlRegexes": [
