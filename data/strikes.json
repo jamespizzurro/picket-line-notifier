@@ -1,12 +1,6 @@
 {
-    "Amazon": {
-        "moreInfoUrl": "https://teamster.org/2024/12/teamsters-launch-largest-strike-against-amazon-in-american-history/",
-        "matchingUrlRegexes": [
-            "amazon.com"
-        ]
-    },
     "Essentia Health": {
-        "moreInfoUrl": "https://lptv.org/health-care-workers-at-essentia-health-deer-river-start-open-ended-strike/",
+        "moreInfoUrl": "https://www.seiuhealthcaremn.org/campaigns/essentia-deer-river-bargaining-updates/",
         "matchingUrlRegexes": [
             "essentiahealth.org"
         ]
@@ -51,7 +45,7 @@
         ]
     },
     "Elmwood Taco and Subs": {
-        "moreInfoUrl": "https://www.gofundme.com/f/ets-is-cutting-worker-hours-union-busting",
+        "moreInfoUrl": "https://www.boycottets.com/",
         "matchingUrlRegexes": [
             "theets.com",
             "facebook.com/elmwoodtacoandsubs",
