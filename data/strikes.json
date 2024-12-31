@@ -5,12 +5,6 @@
             "essentiahealth.org"
         ]
     },
-    "Faurecia Auto Parts": {
-        "moreInfoUrl": "https://www.missourinet.com/2024/12/04/uaw-workers-hit-the-picket-line-at-the-faurecia-auto-parts-factory-in-dexter/",
-        "matchingUrlRegexes": [
-            "faurecia-us.com"
-        ]
-    },
     "REI": {
         "moreInfoUrl": "https://nysaflcio.org/new-york-city-central-labor-council/news/take-action-rei-soho-ski-shop-workers-remain-ulp-strike",
         "matchingUrlRegexes": [
