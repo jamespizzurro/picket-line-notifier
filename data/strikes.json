@@ -103,48 +103,6 @@
             "blockcommunications.com"
         ]
     },
-    "Marriot Hotels": {
-        "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
-        "matchingUrlRegexes": [
-            "marriot.com",
-            "facebook.com/marriottbonvoy",
-            "x.com/marriottbonvoy",
-            "instagram.com/marriottbonvoy",
-            "linkedin.com/company/marriott-international",
-            "youtube.com/marriott"
-        ]
-    },
-    "Hilton Hotels": {
-        "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
-        "matchingUrlRegexes": [
-            "hilton.com",
-            "facebook.com/hiltonnewsroom",
-            "x.com/hiltonnewsroom",
-            "instagram.com/hiltonnewsroom"
-        ]
-    },
-    "Hyatt Hotels": {
-        "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
-        "matchingUrlRegexes": [
-            "hyaatt.com",
-            "facebook.com/hyatt",
-            "instagram.com/hyatt",
-            "x.com/Hyatt",
-            "linkedin.com/company/hyatt",
-            "youtube.com/user/hyatt"
-        ]
-    },
-    "Omni Hotels": {
-        "moreInfoUrl": "https://unitehere.org/campaign/time-for-hotels-to-respect-our-work-in-2024/",
-        "matchingUrlRegexes": [
-            "omnihotels.com",
-            "facebook.com/omnihotels",
-            "instagram.com/omnihotels",
-            "tiktok.com/@omnihotels",
-            "pinterest.com/omnihotels",
-            "youtube.com/omnihotels"
-        ]
-    },
     "Hometown Disposal": {
         "moreInfoUrl": "https://www.dailyitem.com/news/14-hometown-disposal-employees-on-strike/article_7a7ec03e-6403-11ef-8d75-bf4cb7f23b0a.html",
         "matchingUrlRegexes": [
