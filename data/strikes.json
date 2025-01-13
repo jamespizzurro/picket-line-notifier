@@ -113,15 +113,5 @@
             "instagram.com/hometowndisposal",
             "linkedin.com/company/hometown-disposal"
         ]
-    },
-    "Park City Mountain Resort - Vail Resorts": {
-        "moreInfoUrl": "https://www.gofundme.com/f/strike-fund-park-city-professional-ski-patrol-association",
-        "matchingUrlRegexes": [
-            "parkcitymountain.com/",
-            "facebook.com/ParkCityMountain",
-            "instagram.com/pcski",
-            "x.com/PCski",
-            "youtube.com/user/pcski"
-        ]
     }
 }
