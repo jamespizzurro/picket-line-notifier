@@ -1,10 +1,4 @@
 {
-    "Essentia Health": {
-        "moreInfoUrl": "https://www.seiuhealthcaremn.org/campaigns/essentia-deer-river-bargaining-updates/",
-        "matchingUrlRegexes": [
-            "essentiahealth.org"
-        ]
-    },
     "REI": {
         "moreInfoUrl": "https://nysaflcio.org/new-york-city-central-labor-council/news/take-action-rei-soho-ski-shop-workers-remain-ulp-strike",
         "matchingUrlRegexes": [
