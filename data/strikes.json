@@ -1,10 +1,4 @@
 {
-    "REI": {
-        "moreInfoUrl": "https://nysaflcio.org/new-york-city-central-labor-council/news/take-action-rei-soho-ski-shop-workers-remain-ulp-strike",
-        "matchingUrlRegexes": [
-            "rei.com"
-        ]
-    },
     "i-Health of Enfield": {
         "moreInfoUrl": "https://www.teamsters671.com/news-details/news/local-news-updates/22773/95914",
         "matchingUrlRegexes": [
